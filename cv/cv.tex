@@ -1,0 +1,57 @@
+\RequirePackage[2020-02-02]{latexrelease}
+\documentclass[11pt,a4paper,sans]{moderncv}
+\usepackage{footmisc}
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+\firstname{Erich}
+\familyname{Erstu}
+
+\title{Curriculum Vitae}
+\address{{ESTONIA}}
+%\mobile{(+372) *** ** 389}
+\email{mail@ericherstu.net}
+\homepage{ericherstu.net}
+\social[github]{1Hyena}
+%\extrainfo{}
+\photo[64px][0.4pt]{avatar}
+\quote{"\href{https://medium.com/@craig_10243/two-steps-forward-one-step-back-1ef6e60ccd8e}{\textcolor{blue}{All progress comes through a path of resistance.}}" ---~Satoshi~Nakamoto}
+
+\begin{document}
+
+\makecvtitle %quote is needed to get rid of underfull box warning here
+
+\section{Education}
+\cventry{2012--2014}{Master of Software Engineering}{The University of Tartu}{}{}{}
+\cvitem{}{Thesis: \href{https://hdl.handle.net/10062/56022}{\textcolor{blue}{Fluid Morphing for 2D Animations}}}
+\cventry{2008--2012}{Bachelor of Informatics}{The University of Tartu}{}{}{}
+\cvitem{}{Thesis: \href{https://hdl.handle.net/10062/32808}{\textcolor{blue}{Random World Generator}}}
+\cvitem{\footnotesize{Notable Courses}}{Data Mining, Computer Security, Principles of Secure Software Design, Secure Programming Techniques, \href{http://www.clarifiedsecurity.com/web-application-security-training/}{\textcolor{blue}{Web Application Security Advanced}}, Computer Game Development and Design}
+
+\section{Experience}
+\cventry{2017--2022}{Developer}{Heathmont O{\"U}}{Tallinn}{Estonia}{Devised BitCoin double spend mitigation software. Implemented a multi user slot machine.}
+\cventry{2016--2017}{Game Developer}{Pixster O{\"U}}{Tallinn}{Estonia}{Developed video slots in Cocos2D.}
+\cventry{2015--2016}{Cyber Lab Technician}{\href{https://ccdcoe.org/}{\textcolor{blue}{NATO CCDCOE}}}{Tallinn}{Estonia}{Devised deliberately vulnerable software for various cyber defence exercises.}
+\cventry{2013}{Software Developer}{Axinom Eesti O{\"U}}{Tartu}{Estonia}{Worked as a C\texttt{++} programmer developing a video streaming library for the Android platform.}
+\cventry{2011--2013}{Programmer}{Raintree Estonia O{\"U}}{Tartu}{Estonia}{Worked in the Billing and Interfaces team mostly developing custom functionality for the clients and integrating their systems when needed.}
+\cvitem{Personal}{Designed and developed many \textit{indie} games (see \href{https://www.hyena.net.ee/?cat=3}{\textcolor{blue}{homepage}}). Modded and maintained a MUD\footnotemark{ server} for 5 years. For more hobby projects, see \href{https://github.com/1Hyena/}{\textcolor{blue}{GitHub}}.}
+
+\section{Proficient Skills}
+\verb!C!, \verb!C++!, Bash, Lua, PHP, HTML, CSS, JavaScript, \href{https://pixijs.com/}{\textcolor{blue}{PixiJS}}, \href{https://www.allegro.cc/}{\textcolor{blue}{Allegro}}, \href{https://www.bitcoinsv.io/}{\textcolor{blue}{BitCoin}}, \LaTeX 
+
+\section{Languages}
+\cvitemwithcomment{Estonian}{Excellent}{}
+\cvitemwithcomment{English}{Very Good}{}
+\cvitemwithcomment{Russian}{Basic}{}
+
+%\section{Interests}
+%Health and Fitness, Video Game Development, Investing and Speculation, BitCoin, Truth
+
+\vfill
+\enlargethispage{\footskip}
+\footnotetext{MUD stands for Multi User Dungeon which is the text based forefather of today's MMORPGs.}
+
+\end{document}
