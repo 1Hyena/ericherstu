@@ -1,1 +1,2 @@
-Here lies the source code of the Curriculum Vitae of Erich Erstu.
+Here lies the [source code](cv.tex) of the [Curriculum Vitae](cv.pdf) of Erich
+Erstu.
