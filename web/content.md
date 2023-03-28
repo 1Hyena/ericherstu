@@ -16,7 +16,7 @@ This website serves as a formal publication of both the professional and social
 information about the living soul known as Erich Erstu.
 
 
-## Autobiography ###############################################################
+## Biography ###################################################################
 
 In professional life, Erich Erstu is a software engineer and a computer game
 developer who often challenges the mundane world of dogmas with his novel
