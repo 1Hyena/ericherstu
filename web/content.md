@@ -1,7 +1,7 @@
 |                                                                              |
 | :--------------------------------------------------------------------------: |
 |                                                                              |
-|                   ![Image](../cv/avatar.jpg "Erich Erstu")                   |
+|                   ![Photo](../cv/avatar.jpg "Erich Erstu")                   |
 |                                                                              |
 |                                  Erich Erstu                                 |
 |                                                                              |
@@ -14,6 +14,13 @@
 
 This website serves as a formal publication of both the professional and social
 information about the [living soul][ref-1] known as Erich Erstu.
+
+|                                                                              |
+| :--------------------------------------------------------------------------: |
+|                                 Contact us:                                  |
+|                                                                              |
+|             mail@![Domain](./gfx/domain-name.png "Domain name")              |
+
 
 ## Biography ###################################################################
 
