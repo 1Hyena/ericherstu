@@ -1,7 +1,7 @@
 |                                                                              |
 | :--------------------------------------------------------------------------: |
 |                                                                              |
-|                   ![Photo](../cv/avatar.jpg "Erich Erstu")                   |
+|       ![Photo of Erich Erstu](../cv/avatar.jpg "Photo of Erich Erstu")       |
 |                                                                              |
 |                                  Erich Erstu                                 |
 |                                                                              |
@@ -19,10 +19,16 @@ information about the [living soul][ref-1] known as Erich Erstu.
 | :--------------------------------------------------------------------------: |
 |                                Contact Info:                                 |
 |                                                                              |
-|             mail@![Domain](./gfx/domain-name.png "Domain name")              |
+|         mail@![ErichErstu.net](./gfx/domain-name.png "Domain name")          |
 
 
 ## Biography ###################################################################
+
+| ![Photo of Erich Erstu](../cv/avatar.jpg "Photo of Erich Erstu")             |
+| :--------------------------------------------------------------------------- |
+| **Erich Erstu**, born on the 15th of February 1989                           |
+|                                                                              |
+| Former Child, unemployed, native resident of Estonia                         |
 
 In his professional life Erich Erstu is a software engineer and a computer game
 developer who often challenges the mundane world of dogmas with his novel
