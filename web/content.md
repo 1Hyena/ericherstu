@@ -26,14 +26,14 @@ scalable game server for a massively multiplayer online role playing game.
 
 He wrote his first computer program at the age of five in QBasic. At the age of
 12 he developed his first video game using the _GameMaker_ software. He learned
-the C language on his own while modding a multi user dungeon (MUD) server. At
-the age of 16 he started learning C++ which quickly became his favourite
+the C programming language on his own while modding a multi user dungeon (MUD)
+server. At the age of 16 he started learning C++ which also became his favourite
 programming language. Although he used the Windows operating system up until the
-year 2012 he switched to Linux due to security concerns when buying his first
+year 2012, he switched to Linux due to security concerns when buying his first
 BitCoin.
 
 Over the course of his life Erich has created dozens of video games and a
-multitude of software projects, albeit none of these endevours has brought him
+multitude of software projects, albeit none of these endeavours has brought him
 any long-lasting fame or fortune. His ability to see the future and to make good
 speculative investments on the other hand has abundantly compensated him the
 time he has spent on developing software. That said, he does not see any of his
@@ -47,6 +47,15 @@ time on research of various (mostly controversial) topics. He is convinced that
 in order to gain a competitive advantage in front of his fellow man he must
 discard the mainstream beliefs and hold a mindset that the majority of "well
 educated" people are wrong about virtually everything.
+
+Being experienced in so many different arts and sciences Erich considers himself
+more of a multidisciplinary problem solver than a mere software engineer. While
+programming has indeed been his primary task he has also been in the role of a
+game designer, software architect, software tester, computer hacker, conscript,
+truck driver, warehouse manager, investor, day trader, BitCoin miner, artist,
+creative director, composer, lyricist, drummer, shaman, nutritional advisor,
+fitness coach, holistic doctor, parasitologist, alchemist, evangelist, exorcist
+and a plaintiff, to name a few.
 
 
 ## Academic Degrees ############################################################
