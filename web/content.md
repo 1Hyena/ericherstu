@@ -17,7 +17,7 @@ information about the [living soul][ref-1] known as Erich Erstu.
 
 |                                                                              |
 | :--------------------------------------------------------------------------: |
-|                                 Contact us:                                  |
+|                                Contact Info:                                 |
 |                                                                              |
 |             mail@![Domain](./gfx/domain-name.png "Domain name")              |
 
