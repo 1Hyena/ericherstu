@@ -67,8 +67,8 @@ programming has indeed been his primary task he has also been in the role of a
 game designer, software architect, software tester, computer hacker, conscript,
 truck driver, warehouse manager, investor, day trader, BitCoin miner, artist,
 creative director, composer, lyricist, drummer, shaman, nutritional advisor,
-fitness coach, holistic doctor, parasitologist, alchemist, evangelist, exorcist
-and a plaintiff, to name a few.
+fitness coach, holistic doctor, parasitologist, alchemist, evangelist, exorcist,
+carpenter and a plaintiff, to name a few.
 
 
 ## Academic Degrees ############################################################
