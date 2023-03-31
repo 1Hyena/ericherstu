@@ -7,7 +7,7 @@
 |                                                                              |
 |                                  Erich Erstu                                 |
 |                                                                              |
-|          _"In which lies the true question, that is The Question."_          |
+|          _"In which lies the true question, that is the question."_          |
 |                                                                              |
 |            software engineer, game developer, researcher, investor           |
 
@@ -19,7 +19,77 @@
 
 # Portfolio ####################################################################
 
-## Games #######################################################################
+Over the course of his life Erich Erstu has authored many software projects. The
+most notable titles are listed in the following sections.
+
+
+## Computer Games ##############################################################
+
+  * Slice&Dice Dungeon, 2017 - 2022 (discontinued)
+
+    Tech stack: C++, JavaScript and PixiJS
+
+  * Slime Time, 2013
+
+    [![Screenshot](http://img.youtube.com/vi/VnNAKc0Hgq8/0.jpg)](
+        http://www.youtube.com/watch?v=VnNAKc0Hgq8
+        "Screen recording from the Slime Time game"
+    )
+
+    Tech stack: C++ and Allegro5
+
+  * Arkalife, 2013
+
+    [![Screenshot](http://img.youtube.com/vi/w1lwSB0vhkc/0.jpg)](
+        http://www.youtube.com/watch?v=w1lwSB0vhkc
+        "Screen recording from the Arkalife game"
+    )
+
+    Tech stack: C++ and Allegro5
+
+  * Sohni, 2012
+
+    [![Screenshot](http://img.youtube.com/vi/y3saE9PRqLQ/0.jpg)](
+        http://www.youtube.com/watch?v=y3saE9PRqLQ
+        "Screen recording from the Sohni game"
+    )
+
+    Tech stack: C++, Lua and Allegro5
+
+  * CatFight, 2007
+
+    [![Screenshot](http://img.youtube.com/vi/GJkf9_6f35Q/0.jpg)](
+        http://www.youtube.com/watch?v=GJkf9_6f35Q
+        "Screen recording from the CatFight game"
+    )
+
+    Tech stack: C++ and Allegro4
+
+  * Baltic Sea, 2007
+
+    Tech stack: GameMaker
+
+  * Arion MUD, 2005 - 2015 (discontinued)
+
+    Tech stack: C
+
+  * RedEgg Adventures, 2005 (uncompleted)
+
+    [![Screenshot](http://img.youtube.com/vi/t3zZmQaDeV8/0.jpg)](
+        http://www.youtube.com/watch?v=t3zZmQaDeV8
+        "Screen recording from the RedEgg Adventures game"
+    )
+
+    Tech stack: GameMaker
+
+  * Troll, 2004
+
+    [![Screenshot](http://img.youtube.com/vi/zk1KSSgP9M8/0.jpg)](
+        http://www.youtube.com/watch?v=zk1KSSgP9M8
+        "Screen recording from the Troll game"
+    )
+
+    Tech stack: GameMaker
 
   * Marko, 2003
 
@@ -33,13 +103,21 @@
     the parish of Kambja in Estonia. It was made in 2003 with Gamemaker 5.0. The
     game is in Estonian.
 
-## Software ####################################################################
+    Tech stack: GameMaker
+
+
+## Other Software ##############################################################
 
 Please browse my [GitHub account][ref-5] to see what kind of software I have
 written.
 
 
 # Research #####################################################################
+
+From time to time Erich has ran into non-trivial problems that he needed to have
+a solution for. In these circumstances the process of working out a solution has
+required enough effort to be qualified as research. In this section some of the
+more noteworthy research results are presented.
 
   * Dungeon Generation with the Wave Function Collapse method, 2021
 
@@ -50,8 +128,8 @@ written.
 
     Unlike the [original method][ref-6], Erich Erstu's method operates on an
     unbounded area. Also, his method tolerates contradictions. This variant of
-    the WFC was initially implemented to generate random dungeons for an online
-    role-playing game.
+    the Wave Function Collapse method was initially implemented to generate
+    random dungeon maps for an online role-playing game.
 
 
 # About ########################################################################
