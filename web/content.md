@@ -1,13 +1,64 @@
+# Intro ########################################################################
+
 |                                                                              |
 | :--------------------------------------------------------------------------: |
 |                                                                              |
-|       ![Photo of Erich Erstu](../cv/avatar.jpg "Photo of Erich Erstu")       |
+|        ![Photo of Erich Erstu](./gfx/intro.jpg "Photo of Erich Erstu")       |
 |                                                                              |
 |                                  Erich Erstu                                 |
 |                                                                              |
-|      _"In which lies the true question, that is the ultimate question."_     |
+|          _"In which lies the true question, that is The Question."_          |
 |                                                                              |
 |            software engineer, game developer, researcher, investor           |
+
+
+# Curriculum Vitae #############################################################
+
+[Here][ref-4] you may find the compact Curriculum Vitae of Erich Erstu.
+
+
+# Portfolio ####################################################################
+
+## Games #######################################################################
+
+  * Marko, 2003
+
+    [![Screenshot](http://img.youtube.com/vi/J5eU0AF5HDg/0.jpg)](
+        http://www.youtube.com/watch?v=J5eU0AF5HDg
+        "Screen recording from the Marko game"
+    )
+
+    Marko is a simple adventure game named after its protagonist Marko who has
+    to raise money for a cool motorbike. The events of this game take place in
+    the parish of Kambja in Estonia. It was made in 2003 with Gamemaker 5.0. The
+    game is in Estonian.
+
+## Software ####################################################################
+
+Please browse my [GitHub account][ref-5] to see what kind of software I have
+written.
+
+
+## Varia #######################################################################
+
+  * Pencil drawing "Meremaid", 2020
+
+    ![Pencil Drawing](./gfx/meremaid.jpg "Meremaid by Erich Erstu")
+
+
+# Research #####################################################################
+
+  * Dungeon Generation with the Wave Function Collapse method, 2021
+
+    [![Screenshot](http://img.youtube.com/vi/tWz_TTOCEdQ/0.jpg)](
+        http://www.youtube.com/watch?v=tWz_TTOCEdQ
+        "Screen recording from the Wave Function Collapse demo"
+    )
+
+    Unlike the [original method][ref-6], Erich Erstu's method operates on an
+    unbounded area. Also, his method tolerates contradictions. This variant of
+    the WFC was initially implemented to generate random dungeons for an online
+    role-playing game.
 
 
 # About ########################################################################
@@ -24,11 +75,11 @@ information about the [living soul][ref-1] known as Erich Erstu.
 
 ## Biography ###################################################################
 
-| ![Photo of Erich Erstu](../cv/avatar.jpg "Photo of Erich Erstu")             |
+| ![Photo of Erich Erstu](./gfx/biography.jpg "Photo of Erich Erstu")          |
 | :--------------------------------------------------------------------------- |
 | **Erich Erstu**, born on the 15th of February 1989                           |
 |                                                                              |
-| Former Child, unemployed, native resident of Estonia                         |
+| Native resident of Estonia                                                   |
 
 In his professional life Erich Erstu is a software engineer and a computer game
 developer who often challenges the mundane world of dogmas with his novel
@@ -95,3 +146,9 @@ carpenter and a plaintiff, to name a few.
 [ref-2]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3440802
         "BitCoin Whitepaper by Craig Wright"
 [ref-3]: http://www.clarifiedsecurity.com/web-application-security-training/
+[ref-4]: ../cv/cv.pdf
+        "Curriculum Vitae of Erich Erstu in PDF"
+[ref-5]: https://github.com/1Hyena
+        "GitHub account of Erich Erstu"
+[ref-6]: https://github.com/mxgmn/WaveFunctionCollapse
+        "GitHub page of the WaveFunctionCollapse project"
