@@ -189,8 +189,8 @@ most notable titles are listed in the following sections.
 
 ## Other Software ##############################################################
 
-Please browse my [GitHub account][ref-5] to see what kind of software I have
-written.
+Please browse the [GitHub account][ref-5] of Erich Erstu to see what other
+software he has created.
 
 
 # Research #####################################################################
