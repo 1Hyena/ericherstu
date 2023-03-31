@@ -57,8 +57,9 @@ multitude of software projects, albeit none of these endeavours has brought him
 any long-lasting fame or fortune. His ability to see the future and to make good
 speculative investments on the other hand has abundantly compensated him the
 time he has spent on developing software. That said, he does not see any of his
-discontinued projects as a failure. If there were not for all those projects, he
-would not be able to claim today that he is a seasoned software developer.
+discontinued projects as a failure. After all, if there were not for all those
+projects, he would not be able to claim today that he is a seasoned software
+developer.
 
 In his private life Erich enjoys lifting weights in the gym as a hobbyist
 bodybuilder and often times innovation strikes him exactly there when he is
