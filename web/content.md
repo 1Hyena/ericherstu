@@ -39,13 +39,6 @@ Please browse my [GitHub account][ref-5] to see what kind of software I have
 written.
 
 
-## Varia #######################################################################
-
-  * Pencil drawing "Meremaid", 2020
-
-    ![Pencil Drawing](./gfx/meremaid.jpg "Meremaid by Erich Erstu")
-
-
 # Research #####################################################################
 
   * Dungeon Generation with the Wave Function Collapse method, 2021
