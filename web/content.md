@@ -108,12 +108,17 @@ most notable titles are listed in the following sections.
 
   * Slice&Dice Dungeon, 2017 - 2022 (discontinued)
 
+    [![Screenshot](https://img.youtube.com/vi/rRRs_T1ryVk/hq720.jpg)](
+        https://www.youtube.com/watch?v=rRRs_T1ryVk
+        "Screen recording showing off Slice&Dice Dungeon"
+    )
+
     Tech stack: C++, JavaScript and PixiJS
 
   * Slime Time, 2013
 
-    [![Screenshot](http://img.youtube.com/vi/VnNAKc0Hgq8/0.jpg)](
-        http://www.youtube.com/watch?v=VnNAKc0Hgq8
+    [![Screenshot](https://img.youtube.com/vi/VnNAKc0Hgq8/0.jpg)](
+        https://www.youtube.com/watch?v=VnNAKc0Hgq8
         "Screen recording from the Slime Time game"
     )
 
@@ -121,8 +126,8 @@ most notable titles are listed in the following sections.
 
   * Arkalife, 2013
 
-    [![Screenshot](http://img.youtube.com/vi/w1lwSB0vhkc/0.jpg)](
-        http://www.youtube.com/watch?v=w1lwSB0vhkc
+    [![Screenshot](https://img.youtube.com/vi/w1lwSB0vhkc/0.jpg)](
+        https://www.youtube.com/watch?v=w1lwSB0vhkc
         "Screen recording from the Arkalife game"
     )
 
@@ -130,8 +135,8 @@ most notable titles are listed in the following sections.
 
   * Sohni, 2012
 
-    [![Screenshot](http://img.youtube.com/vi/y3saE9PRqLQ/0.jpg)](
-        http://www.youtube.com/watch?v=y3saE9PRqLQ
+    [![Screenshot](https://img.youtube.com/vi/y3saE9PRqLQ/0.jpg)](
+        https://www.youtube.com/watch?v=y3saE9PRqLQ
         "Screen recording from the Sohni game"
     )
 
@@ -139,8 +144,8 @@ most notable titles are listed in the following sections.
 
   * CatFight, 2007
 
-    [![Screenshot](http://img.youtube.com/vi/GJkf9_6f35Q/0.jpg)](
-        http://www.youtube.com/watch?v=GJkf9_6f35Q
+    [![Screenshot](https://img.youtube.com/vi/GJkf9_6f35Q/0.jpg)](
+        https://www.youtube.com/watch?v=GJkf9_6f35Q
         "Screen recording from the CatFight game"
     )
 
@@ -154,10 +159,10 @@ most notable titles are listed in the following sections.
 
     Tech stack: C
 
-  * RedEgg Adventures, 2005 (uncompleted)
+  * RedEgg Adventures, 2005 (discontinued)
 
-    [![Screenshot](http://img.youtube.com/vi/t3zZmQaDeV8/0.jpg)](
-        http://www.youtube.com/watch?v=t3zZmQaDeV8
+    [![Screenshot](https://img.youtube.com/vi/t3zZmQaDeV8/0.jpg)](
+        https://www.youtube.com/watch?v=t3zZmQaDeV8
         "Screen recording from the RedEgg Adventures game"
     )
 
@@ -165,8 +170,8 @@ most notable titles are listed in the following sections.
 
   * Troll, 2004
 
-    [![Screenshot](http://img.youtube.com/vi/zk1KSSgP9M8/0.jpg)](
-        http://www.youtube.com/watch?v=zk1KSSgP9M8
+    [![Screenshot](https://img.youtube.com/vi/zk1KSSgP9M8/0.jpg)](
+        https://www.youtube.com/watch?v=zk1KSSgP9M8
         "Screen recording from the Troll game"
     )
 
@@ -174,8 +179,8 @@ most notable titles are listed in the following sections.
 
   * Marko, 2003
 
-    [![Screenshot](http://img.youtube.com/vi/J5eU0AF5HDg/0.jpg)](
-        http://www.youtube.com/watch?v=J5eU0AF5HDg
+    [![Screenshot](https://img.youtube.com/vi/J5eU0AF5HDg/0.jpg)](
+        https://www.youtube.com/watch?v=J5eU0AF5HDg
         "Screen recording from the Marko game"
     )
 
@@ -202,8 +207,8 @@ more noteworthy research results are presented.
 
   * Dungeon Generation with the Wave Function Collapse method, 2021
 
-    [![Screenshot](http://img.youtube.com/vi/tWz_TTOCEdQ/0.jpg)](
-        http://www.youtube.com/watch?v=tWz_TTOCEdQ
+    [![Screenshot](https://img.youtube.com/vi/tWz_TTOCEdQ/hq720.jpg)](
+        https://www.youtube.com/watch?v=tWz_TTOCEdQ
         "Screen recording from the Wave Function Collapse demo"
     )
 
