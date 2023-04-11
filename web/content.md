@@ -104,92 +104,175 @@ Over the course of his life Erich Erstu has authored many software projects. The
 most notable titles are listed in the following sections.
 
 
-## Computer Games ##############################################################
+## Slice&Dice Dungeon ##########################################################
 
-  * Slice&Dice Dungeon, 2017 - 2022 (discontinued)
+[![Screenshot](https://img.youtube.com/vi/rRRs_T1ryVk/hq720.jpg)](
+    https://www.youtube.com/watch?v=rRRs_T1ryVk
+    "Screen recording showing off Slice&Dice Dungeon"
+)
 
-    [![Screenshot](https://img.youtube.com/vi/rRRs_T1ryVk/hq720.jpg)](
-        https://www.youtube.com/watch?v=rRRs_T1ryVk
-        "Screen recording showing off Slice&Dice Dungeon"
-    )
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | Slice&Dice Dungeon                                        |
+|   Time of Focus: | 2017 — 2022                                               |
+| Target Platform: | Web browser                                               |
+|      Tech Stack: | C++, JavaScript, PixiJS                                   |
+|          Status: | Discontinued                                              |
 
-    Tech stack: C++, JavaScript and PixiJS
+## Slime Time ##################################################################
 
-  * Slime Time, 2013
 
-    [![Screenshot](https://img.youtube.com/vi/VnNAKc0Hgq8/0.jpg)](
-        https://www.youtube.com/watch?v=VnNAKc0Hgq8
-        "Screen recording from the Slime Time game"
-    )
+[![Screenshot](https://img.youtube.com/vi/VnNAKc0Hgq8/0.jpg)](
+    https://www.youtube.com/watch?v=VnNAKc0Hgq8
+    "Screen recording from the Slime Time game"
+)
 
-    Tech stack: C++ and Allegro5
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | Slime Time                                                |
+|   Time of Focus: | 2013                                                      |
+| Target Platform: | Linux                                                     |
+|      Tech Stack: | C++, Allegro5                                             |
+|          Status: | Completed                                                 |
 
-  * Arkalife, 2013
 
-    [![Screenshot](https://img.youtube.com/vi/w1lwSB0vhkc/0.jpg)](
-        https://www.youtube.com/watch?v=w1lwSB0vhkc
-        "Screen recording from the Arkalife game"
-    )
+## Arkalife ####################################################################
 
-    Tech stack: C++ and Allegro5
+[![Screenshot](https://img.youtube.com/vi/w1lwSB0vhkc/0.jpg)](
+    https://www.youtube.com/watch?v=w1lwSB0vhkc
+    "Screen recording from the Arkalife game"
+)
 
-  * Sohni, 2012
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | Arkalife                                                  |
+|   Time of Focus: | 2013                                                      |
+| Target Platform: | Linux                                                     |
+|      Tech Stack: | C++, Allegro5                                             |
+|          Status: | Completed                                                 |
 
-    [![Screenshot](https://img.youtube.com/vi/y3saE9PRqLQ/0.jpg)](
-        https://www.youtube.com/watch?v=y3saE9PRqLQ
-        "Screen recording from the Sohni game"
-    )
 
-    Tech stack: C++, Lua and Allegro5
+## Sohni #######################################################################
 
-  * CatFight, 2007
+"Sohni: Second Visit to the Underworld", based on a chapter of the Estonian
+national epic "Kalevipoeg", uses traditional adventure gaming elements to offer
+a simplified yet still engaging artistic experience. The player guides the
+protagonist Sohni through gloomy forests, murky bogs and eerie caves, where
+every obstacle and decision might sway his will to push onward.
 
-    [![Screenshot](https://img.youtube.com/vi/GJkf9_6f35Q/0.jpg)](
-        https://www.youtube.com/watch?v=GJkf9_6f35Q
-        "Screen recording from the CatFight game"
-    )
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-sohni]][vid-sohni]                     |
+|           Title: | Sohni — Second Visit to the Underworld                    |
+|   Time of Focus: | 2012                                                      |
+| Target Platform: | Windows XP                                                |
+|      Tech Stack: | C++, Lua, Allegro5                                        |
+|          Status: | Completed                                                 |
 
-    Tech stack: C++ and Allegro4
+[img-sohni]: https://img.youtube.com/vi/y3saE9PRqLQ/0.jpg
+[vid-sohni]: https://www.youtube.com/watch?v=y3saE9PRqLQ
+             "Screen recording from the Sohni game"
 
-  * Baltic Sea, 2007
 
-    Tech stack: GameMaker
+## CatFight ####################################################################
 
-  * Arion MUD, 2005 - 2015 (discontinued)
+CatFight is a brutal cat fighting game. The basics are similar to Mortal Kombat
+except that there are street cats fighting instead of ninjas. Single player
+consists of 10 levels. Two player mode is available.
 
-    Tech stack: C
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-catfight]][vid-catfight]               |
+|           Title: | CatFight                                                  |
+|   Time of Focus: | 2007                                                      |
+| Target Platform: | Windows XP                                                |
+|      Tech Stack: | C++, Allegro4                                             |
+|          Status: | Completed                                                 |
+|                  | [DOWNLOAD](https://ericherstu.net/files/catfight.zip)     |
 
-  * RedEgg Adventures, 2005 (discontinued)
+[img-catfight]: https://img.youtube.com/vi/Abel4RUInlI/sddefault.jpg
+[vid-catfight]: https://www.youtube.com/watch?v=Abel4RUInlI
+                "Screen recording from the CatFight game"
 
-    [![Screenshot](https://img.youtube.com/vi/t3zZmQaDeV8/0.jpg)](
-        https://www.youtube.com/watch?v=t3zZmQaDeV8
-        "Screen recording from the RedEgg Adventures game"
-    )
 
-    Tech stack: GameMaker
+## Baltic Sea ##################################################################
 
-  * Troll, 2004
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | Baltic Sea                                                |
+|   Time of Focus: | 2007                                                      |
+| Target Platform: | Windows XP                                                |
+|      Tech Stack: | GameMaker 5                                               |
+|          Status: | Completed                                                 |
 
-    [![Screenshot](https://img.youtube.com/vi/zk1KSSgP9M8/0.jpg)](
-        https://www.youtube.com/watch?v=zk1KSSgP9M8
-        "Screen recording from the Troll game"
-    )
 
-    Tech stack: GameMaker
+## Arion MUD ###################################################################
 
-  * Marko, 2003
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-arion]][vid-arion]                     |
+|           Title: | Arion MUD                                                 |
+|   Time of Focus: | 2005 — 2015                                               |
+| Target Platform: | Telnet                                                    |
+|      Tech Stack: | C                                                         |
+|          Status: | Discontinued                                              |
 
-    [![Screenshot](https://img.youtube.com/vi/J5eU0AF5HDg/0.jpg)](
-        https://www.youtube.com/watch?v=J5eU0AF5HDg
-        "Screen recording from the Marko game"
-    )
+[img-arion]: https://img.youtube.com/vi/VsEJviogbvQ/0.jpg
+[vid-arion]: https://www.youtube.com/watch?v=VsEJviogbvQ
+             "Screen recording from the Arion MUD"
 
-    Marko is a simple adventure game named after its protagonist Marko who has
-    to raise money for a cool motorbike. The events of this game take place in
-    the parish of Kambja in Estonia. It was made in 2003 with Gamemaker 5.0. The
-    game is in Estonian.
 
-    Tech stack: GameMaker
+## RedEgg Adventures ###########################################################
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-redegg]][vid-redegg]                   |
+|           Title: | RedEgg Adventures                                         |
+|   Time of Focus: | 2001 — 2005                                               |
+| Target Platform: | Windows XP                                                |
+|      Tech Stack: | GameMaker 5                                               |
+|          Status: | Discontinued                                              |
+
+[img-redegg]: https://img.youtube.com/vi/t3zZmQaDeV8/0.jpg
+[vid-redegg]: https://www.youtube.com/watch?v=t3zZmQaDeV8
+              "Screen recording from the RedEgg Adventures game"
+
+
+## Troll #######################################################################
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-troll]][vid-troll]                     |
+|           Title: | Troll                                                     |
+|   Time of Focus: | 2004                                                      |
+| Target Platform: | Windows XP                                                |
+|      Tech Stack: | GameMaker 5                                               |
+|          Status: | Completed                                                 |
+
+[img-troll]: https://img.youtube.com/vi/zk1KSSgP9M8/0.jpg
+[vid-troll]: https://www.youtube.com/watch?v=zk1KSSgP9M8
+             "Screen recording from the Troll game"
+
+
+## Marko #######################################################################
+
+Marko is a simple adventure game named after its protagonist Marko who has to
+raise money for a cool motorbike. The events of this game take place in the
+parish of Kambja, Estonia. It was made in 2003 with Gamemaker 5.0. The game is
+in Estonian.
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-marko]][vid-marko]                     |
+|           Title: | Marko                                                     |
+|   Time of Focus: | 2003                                                      |
+| Target Platform: | Windows XP                                                |
+|      Tech Stack: | GameMaker 4.3                                             |
+|          Status: | Completed                                                 |
+
+[img-marko]: https://img.youtube.com/vi/J5eU0AF5HDg/0.jpg
+[vid-marko]: https://www.youtube.com/watch?v=J5eU0AF5HDg
+             "Screen recording from the Marko game"
 
 
 ## Other Software ##############################################################
@@ -205,17 +288,18 @@ a solution for. In these circumstances the process of working out a solution has
 required enough effort to be qualified as research. In this section some of the
 more noteworthy research results are presented.
 
-  * Dungeon Generation with the Wave Function Collapse method, 2021
+## Wave Function Collapse ######################################################
+with the Wave Function Collapse method, 2021
 
-    [![Screenshot](https://img.youtube.com/vi/tWz_TTOCEdQ/hq720.jpg)](
-        https://www.youtube.com/watch?v=tWz_TTOCEdQ
-        "Screen recording from the Wave Function Collapse demo"
-    )
+[![Screenshot](https://img.youtube.com/vi/tWz_TTOCEdQ/hq720.jpg)](
+    https://www.youtube.com/watch?v=tWz_TTOCEdQ
+    "Screen recording from the Wave Function Collapse demo"
+)
 
-    Unlike the [original method][ref-6], Erich Erstu's method operates on an
-    unbounded area. Also, his method tolerates contradictions. This variant of
-    the Wave Function Collapse method was initially implemented to generate
-    random dungeon maps for an online role-playing game.
+Unlike the [original method][ref-6], Erich Erstu's method operates on an
+unbounded area. Also, his method tolerates contradictions. This variant of the
+Wave Function Collapse method was initially implemented to generate random
+dungeon maps for an online role-playing game.
 
 
 [ref-1]: https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=KJV
