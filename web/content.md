@@ -292,8 +292,8 @@ online role-playing game.
 |      Tech·Stack: | C++                                                       |
 |          Status: | Completed                                                 |
 
-[img-wfc]: https://img.youtube.com/vi/tWz_TTOCEdQ/hq720.jpg
-[vid-wfc]: https://www.youtube.com/watch?v=tWz_TTOCEdQ
+[img-wfc]: https://img.youtube.com/vi/i69gDz3bbUo/sddefault.jpg
+[vid-wfc]: https://www.youtube.com/watch?v=i69gDz3bbUo
            "Screen recording from the Wave Function Collapse demo"
 
 
