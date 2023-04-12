@@ -333,6 +333,37 @@ online role-playing game.
 [vid-wfc]: https://www.youtube.com/watch?v=tWz_TTOCEdQ
            "Screen recording from the Wave Function Collapse demo"
 
+# Links ########################################################################
+
+As in the good old times when people first started making personal websites for
+themselves, the tail of this site is composed of a list of domains that we wish
+to share with the world wide web.
+
+## People ######################################################################
+
+* [CraigWright.net](https://craigwright.net/) —
+  professional website of the Creator of Bitcoin
+
+
+## Software ####################################################################
+
+* [ElectrumSV.io](https://electrumsv.io/) —
+  deterministic Bitcoin wallet for desktop
+* [Simply.cash](https://simply.cash/) —
+  simple Bitcoin wallet for a smartphone
+
+
+## News ########################################################################
+
+* [CoinGeek.com](https://coingeek.com/) —
+  trustworthy source of Bitcoin news
+
+
+## Community ###################################################################
+
+* [MetaNet.icu](https://metanet.icu/) —
+  Exclusive membership club focused on Bitcoin
+
 
 [ref-0]: https://en.wikipedia.org/wiki/MUD
         "Wikipedia article about Multi User Dungeons"
