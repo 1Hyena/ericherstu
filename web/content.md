@@ -117,9 +117,9 @@ audience as SnDC aims to resemble a slot machine.
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-sndd]][vid-sndd]                       |
 |           Title: | Slice&Dice Dungeon                                        |
-|   Time of Focus: | 2017 — 2022                                               |
-| Target Platform: | Web browser                                               |
-|      Tech Stack: | C++, JavaScript, PixiJS                                   |
+|   Time·of·Focus: | 2017 — 2022                                               |
+| Target·Platform: | Web browser                                               |
+|      Tech·Stack: | C++, JavaScript, PixiJS                                   |
 |          Status: | Discontinued                                              |
 
 [img-sndd]: https://img.youtube.com/vi/rRRs_T1ryVk/hq720.jpg
@@ -136,9 +136,9 @@ in the course of Computer Graphics in Tartu University.
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-slimetime]][vid-slimetime]             |
 |           Title: | Slime Time                                                |
-|   Time of Focus: | 2013                                                      |
-| Target Platform: | Linux                                                     |
-|      Tech Stack: | C++, Allegro5                                             |
+|   Time·of·Focus: | 2013                                                      |
+| Target·Platform: | Linux                                                     |
+|      Tech·Stack: | C++, Allegro5                                             |
 |          Status: | Completed                                                 |
 
 [img-slimetime]: https://img.youtube.com/vi/VnNAKc0Hgq8/0.jpg
@@ -156,9 +156,9 @@ course of Computer Graphics in Tartu University.
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-arkalife]][vid-arkalife]               |
 |           Title: | Arkalife                                                  |
-|   Time of Focus: | 2013                                                      |
-| Target Platform: | Linux                                                     |
-|      Tech Stack: | C++, Allegro5                                             |
+|   Time·of·Focus: | 2013                                                      |
+| Target·Platform: | Linux                                                     |
+|      Tech·Stack: | C++, Allegro5                                             |
 |          Status: | Completed                                                 |
 
 [img-arkalife]: https://img.youtube.com/vi/w1lwSB0vhkc/0.jpg
@@ -178,9 +178,9 @@ every obstacle and decision might sway his will to push onward.
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-sohni]][vid-sohni]                     |
 |           Title: | Sohni — Second Visit to the Underworld                    |
-|   Time of Focus: | 2012                                                      |
-| Target Platform: | Windows XP                                                |
-|      Tech Stack: | C++, Lua, Allegro5                                        |
+|   Time·of·Focus: | 2012                                                      |
+| Target·Platform: | Windows XP                                                |
+|      Tech·Stack: | C++, Lua, Allegro5                                        |
 |          Status: | Completed                                                 |
 
 [img-sohni]: https://img.youtube.com/vi/y3saE9PRqLQ/0.jpg
@@ -198,9 +198,9 @@ consists of 10 levels. Two player mode is available.
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-catfight]][vid-catfight]               |
 |           Title: | CatFight                                                  |
-|   Time of Focus: | 2007                                                      |
-| Target Platform: | Windows XP                                                |
-|      Tech Stack: | C++, Allegro4                                             |
+|   Time·of·Focus: | 2007                                                      |
+| Target·Platform: | Windows XP                                                |
+|      Tech·Stack: | C++, Allegro4                                             |
 |          Status: | Completed                                                 |
 |                  | [DOWNLOAD](https://ericherstu.net/files/catfight.zip)     |
 
@@ -214,9 +214,9 @@ consists of 10 levels. Two player mode is available.
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
 |           Title: | Baltic Sea                                                |
-|   Time of Focus: | 2007                                                      |
-| Target Platform: | Windows XP                                                |
-|      Tech Stack: | GameMaker 5                                               |
+|   Time·of·Focus: | 2007                                                      |
+| Target·Platform: | Windows XP                                                |
+|      Tech·Stack: | GameMaker 5                                               |
 |          Status: | Completed                                                 |
 
 
@@ -226,9 +226,9 @@ consists of 10 levels. Two player mode is available.
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-arion]][vid-arion]                     |
 |           Title: | Arion MUD                                                 |
-|   Time of Focus: | 2005 — 2015                                               |
-| Target Platform: | Telnet                                                    |
-|      Tech Stack: | C                                                         |
+|   Time·of·Focus: | 2005 — 2015                                               |
+| Target·Platform: | Telnet                                                    |
+|      Tech·Stack: | C                                                         |
 |          Status: | Discontinued                                              |
 
 [img-arion]: https://img.youtube.com/vi/VsEJviogbvQ/0.jpg
@@ -242,9 +242,9 @@ consists of 10 levels. Two player mode is available.
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-redegg]][vid-redegg]                   |
 |           Title: | RedEgg Adventures                                         |
-|   Time of Focus: | 2001 — 2005                                               |
-| Target Platform: | Windows XP                                                |
-|      Tech Stack: | GameMaker 5                                               |
+|   Time·of·Focus: | 2001 — 2005                                               |
+| Target·Platform: | Windows XP                                                |
+|      Tech·Stack: | GameMaker 5                                               |
 |          Status: | Discontinued                                              |
 
 [img-redegg]: https://img.youtube.com/vi/t3zZmQaDeV8/0.jpg
@@ -258,9 +258,9 @@ consists of 10 levels. Two player mode is available.
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-troll]][vid-troll]                     |
 |           Title: | Troll                                                     |
-|   Time of Focus: | 2004                                                      |
-| Target Platform: | Windows XP                                                |
-|      Tech Stack: | GameMaker 5                                               |
+|   Time·of·Focus: | 2004                                                      |
+| Target·Platform: | Windows XP                                                |
+|      Tech·Stack: | GameMaker 5                                               |
 |          Status: | Completed                                                 |
 
 [img-troll]: https://img.youtube.com/vi/zk1KSSgP9M8/0.jpg
@@ -279,9 +279,9 @@ in Estonian.
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-marko]][vid-marko]                     |
 |           Title: | Marko                                                     |
-|   Time of Focus: | 2003                                                      |
-| Target Platform: | Windows XP                                                |
-|      Tech Stack: | GameMaker 4.3                                             |
+|   Time·of·Focus: | 2003                                                      |
+| Target·Platform: | Windows XP                                                |
+|      Tech·Stack: | GameMaker 4.3                                             |
 |          Status: | Completed                                                 |
 
 [img-marko]: https://img.youtube.com/vi/J5eU0AF5HDg/0.jpg
@@ -315,11 +315,11 @@ online role-playing game.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
-|`                `| [![Screenshot][img-wfc]][vid-wfc]                         |
-|`          Title:`| Random Dungeons with the Wave Function Collapse Method    |
-|`  Time of Focus:`| 2021                                                      |
-|`     Tech Stack:`| C++                                                       |
-|`         Status:`| Completed                                                 |
+|                  | [![Screenshot][img-wfc]][vid-wfc]                         |
+|           Title: | Random Dungeons with the Wave Function Collapse Method    |
+|   Time·of·Focus: | 2021                                                      |
+|      Tech·Stack: | C++                                                       |
+|          Status: | Completed                                                 |
 
 [img-wfc]: https://img.youtube.com/vi/tWz_TTOCEdQ/hq720.jpg
 [vid-wfc]: https://www.youtube.com/watch?v=tWz_TTOCEdQ
