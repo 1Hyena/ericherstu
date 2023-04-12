@@ -136,46 +136,6 @@ audience as SnDC aims to resemble a slot machine.
             "Screen recording showing off Slice&Dice Dungeon"
 
 
-### Slime Time #################################################################
-
-Slime Time is a simple 2-player pong game that uses fluid dynamics to enhance
-the gaming experience. This game was developed as a solution to a homework given
-in the course of Computer Graphics in Tartu University.
-
-|                  |                                                           |
-| ---------------: | :-------------------------------------------------------: |
-|                  | [![Screenshot][img-slimetime]][vid-slimetime]             |
-|           Title: | Slime Time                                                |
-|   Time·of·Focus: | 2013                                                      |
-| Target·Platform: | Linux                                                     |
-|      Tech·Stack: | C++, Allegro5                                             |
-|          Status: | Completed                                                 |
-
-[img-slimetime]: https://img.youtube.com/vi/VnNAKc0Hgq8/0.jpg
-[vid-slimetime]: https://www.youtube.com/watch?v=VnNAKc0Hgq8
-                 "Screen recording from the Slime Time game"
-
-
-### Arkalife ###################################################################
-
-Arkalife is an Arkanoid derivation that features Conway’s Game of Life in some
-of its aspects. This game was developed as a solution to a homework given in the
-course of Computer Graphics in Tartu University.
-
-|                  |                                                           |
-| ---------------: | :-------------------------------------------------------: |
-|                  | [![Screenshot][img-arkalife]][vid-arkalife]               |
-|           Title: | Arkalife                                                  |
-|   Time·of·Focus: | 2013                                                      |
-| Target·Platform: | Linux                                                     |
-|      Tech·Stack: | C++, Allegro5                                             |
-|          Status: | Completed                                                 |
-
-[img-arkalife]: https://img.youtube.com/vi/w1lwSB0vhkc/0.jpg
-[vid-arkalife]: https://www.youtube.com/watch?v=w1lwSB0vhkc
-                "Screen recording from the Arkalife game"
-
-
 ### Sohni ######################################################################
 
 "Sohni: Second Visit to the Underworld", based on a chapter of the Estonian
