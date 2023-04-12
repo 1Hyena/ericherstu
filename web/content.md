@@ -277,7 +277,7 @@ more noteworthy research results are presented.
 
 [Wave Function Collapse][ref-6] is a method devised for procedural generation of
 images based on a sample image. The produced images are locally similar to the
-input image, making this method highly convenient for pattern generation.
+input image which makes this method highly convenient for pattern generation.
 
 Unlike the original method, Erich Erstu's method operates on an unbounded area.
 Also, his method tolerates contradictions. This variant of the Wave Function
