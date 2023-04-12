@@ -100,11 +100,19 @@ carpenter and a plaintiff, to name a few.
 
 # Portfolio ####################################################################
 
-Over the course of his life Erich Erstu has authored many software projects. The
-most notable titles are listed in the following sections.
+As this website concentrates on the software engineering aspect of Erich Erstu's
+doings, in the following sections some of his video games and other software
+projects are listed and briefly described.
 
 
-## Slice&Dice Dungeon ##########################################################
+## Games #######################################################################
+
+Over the course of his life Erich Erstu has authored many computer games. While
+the full list is not fit for public scrutiny some of the more notable titles are
+listed below.
+
+
+### Slice&Dice Dungeon #########################################################
 
 Slice&Dice Dungeon (SnDD) is a multi user slot machine, backwards compatible to
 Telnet. It is inspired by [MUDs][ref-0] and it incorporates aspects from typical
@@ -126,7 +134,7 @@ audience as SnDC aims to resemble a slot machine.
 [vid-sndd]: https://www.youtube.com/watch?v=rRRs_T1ryVk
             "Screen recording showing off Slice&Dice Dungeon"
 
-## Slime Time ##################################################################
+### Slime Time #################################################################
 
 Slime Time is a simple 2-player pong game that uses fluid dynamics to enhance
 the gaming experience. This game was developed as a solution to a homework given
@@ -146,7 +154,7 @@ in the course of Computer Graphics in Tartu University.
                  "Screen recording from the Slime Time game"
 
 
-## Arkalife ####################################################################
+### Arkalife ###################################################################
 
 Arkalife is an Arkanoid derivation that features Conway’s Game of Life in some
 of its aspects. This game was developed as a solution to a homework given in the
@@ -166,7 +174,7 @@ course of Computer Graphics in Tartu University.
                 "Screen recording from the Arkalife game"
 
 
-## Sohni #######################################################################
+### Sohni ######################################################################
 
 "Sohni: Second Visit to the Underworld", based on a chapter of the Estonian
 national epic "Kalevipoeg", uses traditional adventure gaming elements to offer
@@ -188,7 +196,7 @@ every obstacle and decision might sway his will to push onward.
              "Screen recording from the Sohni game"
 
 
-## CatFight ####################################################################
+### CatFight ###################################################################
 
 CatFight is a brutal cat fighting game. The basics are similar to Mortal Kombat
 except that there are street cats fighting instead of ninjas. Single player
@@ -209,7 +217,7 @@ consists of 10 levels. Two player mode is available.
                 "Screen recording from the CatFight game"
 
 
-## Baltic Sea ##################################################################
+### Baltic Sea #################################################################
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
@@ -220,7 +228,7 @@ consists of 10 levels. Two player mode is available.
 |          Status: | Completed                                                 |
 
 
-## Arion MUD ###################################################################
+### Arion MUD ##################################################################
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
@@ -236,7 +244,7 @@ consists of 10 levels. Two player mode is available.
              "Screen recording from the Arion MUD"
 
 
-## RedEgg Adventures ###########################################################
+### RedEgg Adventures ##########################################################
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
@@ -252,7 +260,7 @@ consists of 10 levels. Two player mode is available.
               "Screen recording from the RedEgg Adventures game"
 
 
-## Troll #######################################################################
+### Troll ######################################################################
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
@@ -268,7 +276,7 @@ consists of 10 levels. Two player mode is available.
              "Screen recording from the Troll game"
 
 
-## Marko #######################################################################
+### Marko ######################################################################
 
 Marko is a simple adventure game named after its protagonist Marko who has to
 raise money for a cool motorbike. The events of this game take place in the
@@ -289,7 +297,7 @@ in Estonian.
              "Screen recording from the Marko game"
 
 
-## Other Software ##############################################################
+## Software ####################################################################
 
 Please browse the [GitHub account][ref-5] of Erich Erstu to see what other
 software he has created.
