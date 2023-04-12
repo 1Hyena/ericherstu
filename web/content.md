@@ -86,6 +86,7 @@ carpenter and a plaintiff, to name a few.
 |     ![Image of Diploma][img-msc]      |     ![Image of Diploma][img-bsc]     |
 |     M.Sc in Software Engineering      |         B.Sc in Engineering          |
 |       University of Tartu, 2014       |      University of Tartu, 2012       |
+|            [THESIS][ref-7]            |            [THESIS][ref-8]           |
 
 [img-msc]: ./gfx/diploma-msc.jpg "Master's Diploma"
 [img-bsc]: ./gfx/diploma-bsc.jpg "Bachelor's Diploma"
@@ -133,6 +134,7 @@ audience as SnDC aims to resemble a slot machine.
 [img-sndd]: https://img.youtube.com/vi/rRRs_T1ryVk/hq720.jpg
 [vid-sndd]: https://www.youtube.com/watch?v=rRRs_T1ryVk
             "Screen recording showing off Slice&Dice Dungeon"
+
 
 ### Slime Time #################################################################
 
@@ -310,6 +312,7 @@ a solution for. In these circumstances the process of working out a solution has
 required enough effort to be qualified as research. In this section some of the
 more noteworthy research results are presented.
 
+
 ## Wave Function Collapse ######################################################
 
 [Wave Function Collapse][ref-6] is a method devised for procedural generation of
@@ -333,11 +336,64 @@ online role-playing game.
 [vid-wfc]: https://www.youtube.com/watch?v=tWz_TTOCEdQ
            "Screen recording from the Wave Function Collapse demo"
 
+
+## Fluid Morphing for 2D Animations ############################################
+
+This study investigated the possibilities for image morphing that could be
+applied to animations used in computer games. The motivation was to take
+advantage of fluid dynamics in hope of achieving more natural looking
+interpolations.
+
+As a result of this research, a C++ library named AtoMorph was implemented. The
+library is accompanied by an explanatory [thesis][ref-7] and it also earned
+Erich a Master's Degree in Software Engineering.
+
+|              |                                                               |
+| -----------: | :-----------------------------------------------------------: |
+|              | [![Screenshot][img-atomorph]][vid-atomorph]                   |
+|        Title:| Fluid Morphing for 2D Animations                              |
+|Time·of·Focus:| 2013 — 2014                                                   |
+|   Tech·Stack:| C++                                                           |
+|       Status:| Completed                                                     |
+|              | [SOURCE CODE](https://github.com/1Hyena/atomorph)             |
+
+[img-atomorph]: https://img.youtube.com/vi/8E6cuTbUIUo/sddefault.jpg
+[vid-atomorph]: https://www.youtube.com/watch?v=8E6cuTbUIUo
+                "Screen recording of the AtoMorph library in action"
+
+
+## Random World Generator ######################################################
+
+The aim of this work was to find an easy to use solution to a common problem —
+generating random world maps that could be used in computer games. As a
+constraint the desirable maps were meant to be of an Earth type planet including
+its heightmap, bodies of water and biomes.
+
+Using Perlin noise, water droplet simulation and Whittaker’s biome diagram a C++
+library named RWG was implemented. The library is accompanied by a humble
+[thesis][ref-8] written in Estonian as it also earned Erich a Bachelor's Degree
+in Informatics.
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-rwg]][vid-rwg]                         |
+|           Title: | Random World Generator                                    |
+|   Time·of·Focus: | 2012                                                      |
+|      Tech·Stack: | C++                                                       |
+|          Status: | Completed                                                 |
+|                  | [SOURCE CODE](https://github.com/1Hyena/rwg)              |
+
+[img-rwg]: https://img.youtube.com/vi/JveA-mA3SdE/sddefault.jpg
+[vid-rwg]: https://www.youtube.com/watch?v=JveA-mA3SdE
+           "Screen recording showing the Random World Generator in action"
+
+
 # Links ########################################################################
 
 As in the good old times when people first started making personal websites for
 themselves, the tail of this site is composed of a list of domains that we wish
 to share with the world wide web.
+
 
 ## People ######################################################################
 
@@ -378,3 +434,5 @@ to share with the world wide web.
         "GitHub account of Erich Erstu"
 [ref-6]: https://github.com/mxgmn/WaveFunctionCollapse
         "GitHub page of the WaveFunctionCollapse project"
+[ref-7]: https://hdl.handle.net/10062/56022 "Master's Thesis"
+[ref-8]: https://hdl.handle.net/10062/32808 "Bachelor's Thesis"
