@@ -115,12 +115,12 @@ listed below.
 
 ### Slice&Dice Dungeon #########################################################
 
-Slice&Dice Dungeon (SnDD) is a multi user slot machine, backwards compatible to
-Telnet. It is inspired by [MUDs][ref-0] and it incorporates aspects from typical
-role-playing games. In addition to the Text User Interface, S&DD comes with a
-browser based client written in HTML5 and Javascript. The latter is responsible
-for making this game much more convenient for the vast majority of the target
-audience as SnDC aims to resemble a slot machine.
+_Slice&Dice Dungeon_ (SnDD) is a multi user slot machine, backwards compatible
+to Telnet. It is inspired by [MUDs][ref-0] and it incorporates aspects from
+typical role-playing games. In addition to the Text User Interface, S&DD comes
+with a browser based client written in HTML5 and Javascript. The latter is
+responsible for making this game much more convenient for the vast majority of
+the target audience as SnDC aims to resemble a slot machine.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
@@ -138,7 +138,7 @@ audience as SnDC aims to resemble a slot machine.
 
 ### Sohni ######################################################################
 
-"Sohni: Second Visit to the Underworld", based on a chapter of the Estonian
+_Sohni: Second Visit to the Underworld_, based on a chapter of the Estonian
 national epic "Kalevipoeg", uses traditional adventure gaming elements to offer
 a simplified yet still engaging artistic experience. The player guides the
 protagonist Sohni through gloomy forests, murky bogs and eerie caves, where
@@ -160,9 +160,9 @@ every obstacle and decision might sway his will to push onward.
 
 ### CatFight ###################################################################
 
-CatFight is a brutal cat fighting game. The basics are similar to Mortal Kombat
-except that there are street cats fighting instead of ninjas. Single player
-consists of 10 levels. Two player mode is available.
+_CatFight_ is a brutal cat fighting game. The basics are similar to _Mortal
+Kombat_ except that there are street cats fighting instead of ninjas. Single
+player consists of 10 levels. Two player mode is available.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
@@ -181,7 +181,7 @@ consists of 10 levels. Two player mode is available.
 
 ### Baltic Sea #################################################################
 
-Baltic Sea is a single player real time strategy game where the player has to
+_Baltic Sea_ is a single player real time strategy game where the player has to
 keep order on the Baltic Sea. The game was created with Gamemaker 5.3a in the
 year 2007. This game was mainly developed by Erich Erstu, graphics were drawn by
 Ivo Visak and background research was conducted by Allan Trukits.
@@ -213,6 +213,11 @@ Ivo Visak and background research was conducted by Allan Trukits.
 
 ### RedEgg Adventures ##########################################################
 
+This game is an arbitrary side-scrolling role-playing game where the player
+takes the role of an abstract character named RedEgg who looks like he came out
+of _Pac-Man_. Killing everyone who comes at him he slices and dices his way
+through a fictional world that seems to be progressively turning into excrement.
+
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-redegg]][vid-redegg]                   |
@@ -229,7 +234,7 @@ Ivo Visak and background research was conducted by Allan Trukits.
 
 ### Troll ######################################################################
 
-Troll is a platform adventure game developed in the spirit of _Prehistorik 2_.
+_Troll_ is a platform adventure game developed in the spirit of _Prehistorik 2_.
 In this game the player is a troll named Thog who embarks on a quest to warn the
 king about the sudden madness that has occurred in the animal kingdom.
 
@@ -249,7 +254,7 @@ king about the sudden madness that has occurred in the animal kingdom.
 
 ### Marko ######################################################################
 
-Marko is a simple adventure game named after its protagonist Marko who has to
+_Marko_ is a simple adventure game named after its protagonist Marko who has to
 raise money for a cool motorbike. The events of this game take place in the
 parish of Kambja, Estonia. It was made in 2003 with Gamemaker 5.0. The game is
 in Estonian.
