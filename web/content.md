@@ -81,14 +81,14 @@ carpenter and a plaintiff, to name a few.
 
 ## Academic Degrees ############################################################
 
-  * Master of Science in Software Engineering, University of Tartu, 2014
+|                                       |                                      |
+| :-----------------------------------: | :----------------------------------: |
+|     ![Image of Diploma][img-msc]      |     ![Image of Diploma][img-bsc]     |
+|     M.Sc in Software Engineering      |         B.Sc in Engineering          |
+|       University of Tartu, 2014       |      University of Tartu, 2012       |
 
-    ![Image of Diploma](./gfx/diploma-msc.jpg "Master's Diploma")
-
-
-  * Bachelor of Science in Engineering, University of Tartu, 2012
-
-    ![Image of Diploma](./gfx/diploma-bsc.jpg "Bachelor's Diploma")
+[img-msc]: ./gfx/diploma-msc.jpg "Master's Diploma"
+[img-bsc]: ./gfx/diploma-bsc.jpg "Bachelor's Diploma"
 
 
 ## Professional Certifications #################################################
@@ -106,50 +106,64 @@ most notable titles are listed in the following sections.
 
 ## Slice&Dice Dungeon ##########################################################
 
-[![Screenshot](https://img.youtube.com/vi/rRRs_T1ryVk/hq720.jpg)](
-    https://www.youtube.com/watch?v=rRRs_T1ryVk
-    "Screen recording showing off Slice&Dice Dungeon"
-)
+Slice&Dice Dungeon (SnDD) is a multi user slot machine, backwards compatible to
+Telnet. It is inspired by [MUDs][ref-0] and it incorporates aspects from typical
+role-playing games. In addition to the Text User Interface, S&DD comes with a
+browser based client written in HTML5 and Javascript. The latter is responsible
+for making this game much more convenient for the vast majority of the target
+audience as SnDC aims to resemble a slot machine.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-sndd]][vid-sndd]                       |
 |           Title: | Slice&Dice Dungeon                                        |
 |   Time of Focus: | 2017 — 2022                                               |
 | Target Platform: | Web browser                                               |
 |      Tech Stack: | C++, JavaScript, PixiJS                                   |
 |          Status: | Discontinued                                              |
 
+[img-sndd]: https://img.youtube.com/vi/rRRs_T1ryVk/hq720.jpg
+[vid-sndd]: https://www.youtube.com/watch?v=rRRs_T1ryVk
+            "Screen recording showing off Slice&Dice Dungeon"
+
 ## Slime Time ##################################################################
 
-
-[![Screenshot](https://img.youtube.com/vi/VnNAKc0Hgq8/0.jpg)](
-    https://www.youtube.com/watch?v=VnNAKc0Hgq8
-    "Screen recording from the Slime Time game"
-)
+Slime Time is a simple 2-player pong game that uses fluid dynamics to enhance
+the gaming experience. This game was developed as a solution to a homework given
+in the course of Computer Graphics in Tartu University.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-slimetime]][vid-slimetime]             |
 |           Title: | Slime Time                                                |
 |   Time of Focus: | 2013                                                      |
 | Target Platform: | Linux                                                     |
 |      Tech Stack: | C++, Allegro5                                             |
 |          Status: | Completed                                                 |
 
+[img-slimetime]: https://img.youtube.com/vi/VnNAKc0Hgq8/0.jpg
+[vid-slimetime]: https://www.youtube.com/watch?v=VnNAKc0Hgq8
+                 "Screen recording from the Slime Time game"
+
 
 ## Arkalife ####################################################################
 
-[![Screenshot](https://img.youtube.com/vi/w1lwSB0vhkc/0.jpg)](
-    https://www.youtube.com/watch?v=w1lwSB0vhkc
-    "Screen recording from the Arkalife game"
-)
+Arkalife is an Arkanoid derivation that features Conway’s Game of Life in some
+of its aspects. This game was developed as a solution to a homework given in the
+course of Computer Graphics in Tartu University.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-arkalife]][vid-arkalife]               |
 |           Title: | Arkalife                                                  |
 |   Time of Focus: | 2013                                                      |
 | Target Platform: | Linux                                                     |
 |      Tech Stack: | C++, Allegro5                                             |
 |          Status: | Completed                                                 |
+
+[img-arkalife]: https://img.youtube.com/vi/w1lwSB0vhkc/0.jpg
+[vid-arkalife]: https://www.youtube.com/watch?v=w1lwSB0vhkc
+                "Screen recording from the Arkalife game"
 
 
 ## Sohni #######################################################################
@@ -289,19 +303,31 @@ required enough effort to be qualified as research. In this section some of the
 more noteworthy research results are presented.
 
 ## Wave Function Collapse ######################################################
-with the Wave Function Collapse method, 2021
 
-[![Screenshot](https://img.youtube.com/vi/tWz_TTOCEdQ/hq720.jpg)](
-    https://www.youtube.com/watch?v=tWz_TTOCEdQ
-    "Screen recording from the Wave Function Collapse demo"
-)
+[Wave Function Collapse][ref-6] is a method devised for procedural generation of
+images based on a sample image. The produced images are locally similar to the
+input image, making this method highly convenient for pattern generation.
 
-Unlike the [original method][ref-6], Erich Erstu's method operates on an
-unbounded area. Also, his method tolerates contradictions. This variant of the
-Wave Function Collapse method was initially implemented to generate random
-dungeon maps for an online role-playing game.
+Unlike the original method, Erich Erstu's method operates on an unbounded area.
+Also, his method tolerates contradictions. This variant of the Wave Function
+Collapse method was initially implemented to generate random dungeon maps for an
+online role-playing game.
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|`                `| [![Screenshot][img-wfc]][vid-wfc]                         |
+|`          Title:`| Random Dungeons with the Wave Function Collapse Method    |
+|`  Time of Focus:`| 2021                                                      |
+|`     Tech Stack:`| C++                                                       |
+|`         Status:`| Completed                                                 |
+
+[img-wfc]: https://img.youtube.com/vi/tWz_TTOCEdQ/hq720.jpg
+[vid-wfc]: https://www.youtube.com/watch?v=tWz_TTOCEdQ
+           "Screen recording from the Wave Function Collapse demo"
 
 
+[ref-0]: https://en.wikipedia.org/wiki/MUD
+        "Wikipedia article about Multi User Dungeons"
 [ref-1]: https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=KJV
         "Reference to Genesis 2:7"
 [ref-2]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3440802
