@@ -181,12 +181,17 @@ consists of 10 levels. Two player mode is available.
 
 ### Baltic Sea #################################################################
 
+Baltic Sea is a single player real time strategy game where the player has to
+keep order on the Baltic Sea. The game was created with Gamemaker 5.3a in the
+year 2007. This game was mainly developed by Erich Erstu, graphics were drawn by
+Ivo Visak and background research was conducted by Allan Trukits.
+
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
 |           Title: | Baltic Sea                                                |
 |   Time·of·Focus: | 2007                                                      |
 | Target·Platform: | Windows XP                                                |
-|      Tech·Stack: | GameMaker 5                                               |
+|      Tech·Stack: | GameMaker 5.3a                                            |
 |          Status: | Completed                                                 |
 
 
@@ -223,6 +228,10 @@ consists of 10 levels. Two player mode is available.
 
 
 ### Troll ######################################################################
+
+Troll is a platform adventure game developed in the spirit of _Prehistorik 2_.
+In this game the player is a troll named Thog who embarks on a quest to warn the
+king about the sudden madness that has occurred in the animal kingdom.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
