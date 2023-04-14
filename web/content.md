@@ -131,8 +131,8 @@ the target audience as SnDC aims to resemble a slot machine.
 |      Tech·Stack: | C++, JavaScript, PixiJS                                   |
 |          Status: | Discontinued                                              |
 
-[img-sndd]: https://img.youtube.com/vi/rRRs_T1ryVk/hq720.jpg
-[vid-sndd]: https://www.youtube.com/watch?v=rRRs_T1ryVk
+[img-sndd]: https://img.youtube.com/vi/Gq8RNRD52PU/sd1.jpg
+[vid-sndd]: https://www.youtube.com/watch?v=Gq8RNRD52PU
             "Screen recording showing off Slice&Dice Dungeon"
 
 
