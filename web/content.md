@@ -152,6 +152,7 @@ every obstacle and decision might sway his will to push onward.
 | Target·Platform: | Windows XP                                                |
 |      Tech·Stack: | C++, Lua, Allegro5                                        |
 |          Status: | Completed                                                 |
+|                  | [DOWNLOAD](https://ericherstu.net/sohni/sohni.zip)        |
 
 [img-sohni]: https://img.youtube.com/vi/anG6V4wbiBE/sddefault.jpg
 [vid-sohni]: https://www.youtube.com/watch?v=anG6V4wbiBE
