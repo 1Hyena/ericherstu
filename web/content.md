@@ -189,11 +189,17 @@ Ivo Visak and background research was conducted by Allan Trukits.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-balticsea]][vid-balticsea]             |
 |           Title: | Baltic Sea                                                |
 |   Time·of·Focus: | 2007                                                      |
 | Target·Platform: | Windows XP                                                |
 |      Tech·Stack: | GameMaker 5.3a                                            |
 |          Status: | Completed                                                 |
+|                  | [DOWNLOAD](https://ericherstu.net/files/balticsea.zip)    |
+
+[img-balticsea]: https://img.youtube.com/vi/QLLg8uBB-8s/sddefault.jpg
+[vid-balticsea]: https://www.youtube.com/watch?v=QLLg8uBB-8s
+                 "Screen recording from the Baltic Sea game"
 
 
 ### Arion MUD ##################################################################
