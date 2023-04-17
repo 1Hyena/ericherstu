@@ -84,7 +84,7 @@ carpenter and a plaintiff, to name a few.
 |                                       |                                      |
 | :-----------------------------------: | :----------------------------------: |
 |     ![Image of Diploma][img-msc]      |     ![Image of Diploma][img-bsc]     |
-|     M.Sc in Software Engineering      |         B.Sc in Engineering          |
+|          M.Sc in Engineering          |         B.Sc in Engineering          |
 |       University of Tartu, 2014       |      University of Tartu, 2012       |
 |            [THESIS][ref-7]            |            [THESIS][ref-8]           |
 
@@ -153,8 +153,8 @@ every obstacle and decision might sway his will to push onward.
 |      Tech·Stack: | C++, Lua, Allegro5                                        |
 |          Status: | Completed                                                 |
 
-[img-sohni]: https://img.youtube.com/vi/y3saE9PRqLQ/0.jpg
-[vid-sohni]: https://www.youtube.com/watch?v=y3saE9PRqLQ
+[img-sohni]: https://img.youtube.com/vi/anG6V4wbiBE/sddefault.jpg
+[vid-sohni]: https://www.youtube.com/watch?v=anG6V4wbiBE
              "Screen recording from the Sohni game"
 
 
@@ -392,7 +392,7 @@ to share with the world wide web.
 ## Community ###################################################################
 
 * [MetaNet.icu](https://metanet.icu/) —
-  Exclusive membership club focused on Bitcoin
+  exclusive membership club focused on Bitcoin
 
 
 [ref-0]: https://en.wikipedia.org/wiki/MUD
