@@ -275,8 +275,8 @@ in Estonian.
 |      Tech·Stack: | GameMaker 4.3                                             |
 |          Status: | Completed                                                 |
 
-[img-marko]: https://img.youtube.com/vi/J5eU0AF5HDg/0.jpg
-[vid-marko]: https://www.youtube.com/watch?v=J5eU0AF5HDg
+[img-marko]: https://img.youtube.com/vi/WEGu59IP_3o/sddefault.jpg
+[vid-marko]: https://www.youtube.com/watch?v=WEGu59IP_3o
              "Screen recording from the Marko game"
 
 
