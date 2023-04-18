@@ -282,8 +282,36 @@ in Estonian.
 
 ## Software ####################################################################
 
-Please browse the [GitHub account][ref-5] of Erich Erstu to see what other
-software he has created.
+While a more extensive list of software authored by Erich is available under his
+[GitHub account][ref-5], some of the more noteworthy titles are also listed in
+the following sections.
+
+
+## CryptoGraffiti ##############################################################
+
+Bitcoin's block chain is a decentralized database which main purpose is to
+secure and hold all Bitcoin transactions. It can be used to store other data
+too. For example, lovers might want to "scratch" their name letters into the
+block chain where they will remain forever. CryptoGraffiti allows people to read
+and write such block chain messages.
+
+Unfortunately, the project had to be discontinued because its continuation would
+have required renting a datacenter. The potential revenue that such a peculiar
+service would have generated simply did not balance out the costs associated
+with a datacenter.
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-cg]][vid-cg]                           |
+|           Title: | CryptoGraffiti                                            |
+|   Time·of·Focus: | 2014 — 2021                                               |
+|      Tech·Stack: | JavaScript, HTML, CSS, PHP, MySQL, Bash, C++, BitCoin     |
+|          Status: | Discontinued                                              |
+|                  | [SOURCE CODE](https://github.com/1Hyena/cryptograffiti)   |
+
+[img-cg]: https://img.youtube.com/vi/G4q8n8zWTOU/hq720.jpg
+[vid-cg]: https://www.youtube.com/watch?v=G4q8n8zWTOU
+          "Erich Erstu's CryptoGraffiti presentation during CoinGeek Week 2018"
 
 
 # Research #####################################################################
