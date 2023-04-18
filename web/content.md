@@ -287,7 +287,7 @@ While a more extensive list of software authored by Erich is available under his
 the following sections.
 
 
-## CryptoGraffiti ##############################################################
+### CryptoGraffiti #############################################################
 
 Bitcoin's block chain is a decentralized database which main purpose is to
 secure and hold all Bitcoin transactions. It can be used to store other data
