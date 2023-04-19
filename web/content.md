@@ -234,8 +234,8 @@ through a fictional world that seems to be progressively turning into excrement.
 |      Tech·Stack: | GameMaker 5                                               |
 |          Status: | Discontinued                                              |
 
-[img-redegg]: https://img.youtube.com/vi/t3zZmQaDeV8/0.jpg
-[vid-redegg]: https://www.youtube.com/watch?v=t3zZmQaDeV8
+[img-redegg]: https://img.youtube.com/vi/6tTEmrBZG3I/sddefault.jpg
+[vid-redegg]: https://www.youtube.com/watch?v=6tTEmrBZG3I
               "Screen recording from the RedEgg Adventures game"
 
 
