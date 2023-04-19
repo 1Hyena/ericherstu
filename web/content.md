@@ -255,8 +255,8 @@ king about the sudden madness that has occurred in the animal kingdom.
 |          Status: | Completed                                                 |
 |                  | [DOWNLOAD](https://ericherstu.net/files/troll.zip)        |
 
-[img-troll]: https://img.youtube.com/vi/zk1KSSgP9M8/0.jpg
-[vid-troll]: https://www.youtube.com/watch?v=zk1KSSgP9M8
+[img-troll]: https://img.youtube.com/vi/aET6T86ViBk/sd3.jpg
+[vid-troll]: https://www.youtube.com/watch?v=aET6T86ViBk
              "Screen recording from the Troll game"
 
 
