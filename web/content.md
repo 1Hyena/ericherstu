@@ -204,6 +204,10 @@ Ivo Visak and background research was conducted by Allan Trukits.
 
 ### Arion MUD ##################################################################
 
+_Arion_ is a text-based role-playing game and a multi user dungeon (MUD) based
+on the Rivers of MUD engine. Erich modded and maintained it for fun and to teach
+himself the C programming language.
+
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
 |                  | [![Screenshot][img-arion]][vid-arion]                     |
@@ -213,8 +217,8 @@ Ivo Visak and background research was conducted by Allan Trukits.
 |      Tech·Stack: | C                                                         |
 |          Status: | Discontinued                                              |
 
-[img-arion]: https://img.youtube.com/vi/VsEJviogbvQ/0.jpg
-[vid-arion]: https://www.youtube.com/watch?v=VsEJviogbvQ
+[img-arion]: https://img.youtube.com/vi/pn2bjq0kcHw/sd3.jpg
+[vid-arion]: https://www.youtube.com/watch?v=pn2bjq0kcHw
              "Screen recording from the Arion MUD"
 
 
