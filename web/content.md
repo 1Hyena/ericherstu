@@ -3,7 +3,7 @@
 |                                                                              |
 | :--------------------------------------------------------------------------: |
 |                                                                              |
-|        ![Photo of Erich Erstu](./gfx/intro.jpg "Photo of Erich Erstu")       |
+|       ![Photo of Erich Erstu](./gfx/bg-dark.jpg "Photo of Erich Erstu")      |
 |                                                                              |
 |                                  Erich Erstu                                 |
 |                                                                              |
