@@ -12,11 +12,6 @@
 |            software engineer, game developer, researcher, investor           |
 
 
-# Curriculum Vitae #############################################################
-
-[Here][ref-4] you may find the compact Curriculum Vitae of Erich Erstu.
-
-
 # About ########################################################################
 
 This website serves as a formal publication of both the professional and social
@@ -75,6 +70,13 @@ truck driver, warehouse manager, investor, day trader, BitCoin miner, artist,
 creative director, composer, lyricist, drummer, shaman, nutritional advisor,
 fitness coach, holistic doctor, parasitologist, alchemist, evangelist, exorcist,
 carpenter and a plaintiff, to name a few.
+
+
+## Curriculum Vitae ############################################################
+
+|                  ![Image of CV](./gfx/cv.jpg "Image of CV")                  |
+| :--------------------------------------------------------------------------: |
+|                  Click [here][ref-4] to open the CV in PDF.                  |
 
 
 ## Academic Degrees ############################################################
