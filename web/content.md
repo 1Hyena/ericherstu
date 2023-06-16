@@ -434,7 +434,7 @@ to share with the world wide web.
   exclusive membership club focused on Bitcoin
 
 
-[ref-0]: https://en.wikipedia.org/wiki/MUD
+[ref-0]: https://en.wikipedia.org/wiki/Multi-user_dungeon
         "Wikipedia article about Multi User Dungeons"
 [ref-1]: https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=KJV
         "Reference to Genesis 2:7"
