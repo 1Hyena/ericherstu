@@ -3,9 +3,7 @@
 |                                                                              |
 | :--------------------------------------------------------------------------: |
 |                                                                              |
-|       ![Photo of Erich Erstu](./gfx/bg-dark.jpg "Photo of Erich Erstu")      |
-|                                                                              |
-|                                  Erich Erstu                                 |
+|          ![Logo of Erich Erstu](./gfx/logo.svg "Logo of Erich Erstu")        |
 |                                                                              |
 |          _"In which lies the true question, that is the question."_          |
 |                                                                              |
