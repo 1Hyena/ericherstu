@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    id="svg8"
    version="1.1"
-   viewBox="0 0 203.19999 135.46667"
+   viewBox="0 0 270.93332 135.46667"
    height="512"
-   width="768">
+   width="1024">
   <defs
      id="defs2">
     <linearGradient
@@ -25,7 +25,7 @@
          style="stop-color:#225f8a;stop-opacity:1" />
     </linearGradient>
     <radialGradient
-       gradientTransform="matrix(-15.843766,-15.843798,15.843714,-15.843688,-4542.7123,4881.3311)"
+       gradientTransform="matrix(-15.843766,-15.843798,15.843714,-15.843688,-4508.8455,4885.5645)"
        gradientUnits="userSpaceOnUse"
        r="2.1166666"
        fy="294.87302"
@@ -65,14 +65,14 @@
      transform="translate(0,-161.53332)"
      id="layer1">
     <rect
-       y="191.33353"
-       x="84.837303"
+       y="195.56686"
+       x="118.70396"
        height="33.535938"
        width="33.535938"
        id="rect823"
        style="opacity:1;fill:url(#radialGradient850);fill-opacity:1;stroke:none;stroke-width:6.28798819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
     <g
-       transform="matrix(8,0,0,8,99.488612,-2142.4987)"
+       transform="matrix(8,0,0,8,133.35529,-2138.2653)"
        id="g940">
       <g
          id="g927">
@@ -107,7 +107,7 @@
       </g>
     </g>
     <g
-       transform="matrix(8,0,0,8,84.671919,-2150.9653)"
+       transform="matrix(8,0,0,8,118.53859,-2146.7319)"
        id="g907">
       <g
          aria-label="E"
@@ -129,7 +129,7 @@
       </g>
     </g>
     <g
-       transform="matrix(8,0,0,8,84.671919,-2150.9653)"
+       transform="matrix(8,0,0,8,118.53859,-2146.7319)"
        clip-path="url(#clipPath897)"
        id="text914"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.75413513px;line-height:1.25;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:1.21926689px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ccd7d6;fill-opacity:1;stroke:none;stroke-width:0.24385335"
@@ -140,6 +140,7 @@
          d="m 2.0072689,295.00287 q -0.1316808,0.28124 -0.214591,0.53647 -0.6128848,-0.0195 -0.87299504,-0.0195 -0.25685889,0 -0.87136939,0.0195 -0.02601102,0 -0.02601102,-0.0455 0,-0.0407 0.02601102,-0.0439 0.1349322,-0.0163 0.20646252,-0.0423 0.0715303,-0.0276 0.099167,-0.0731 0.0292624,-0.0455 0.0292624,-0.15932 v -1.52977 q 0,-0.11218 -0.0276367,-0.1577 -0.026011,-0.0471 -0.0975414,-0.0748 -0.0715303,-0.0276 -0.2097139,-0.0439 -0.02601102,0 -0.02601102,-0.0455 0,-0.0455 0.02601102,-0.0455 0.40967367,0.0195 0.8388556,0.0195 0.43243331,0 0.84048131,-0.0195 0.037391,0.25198 0.1089211,0.49746 0,0.0325 -0.056899,0.0325 -0.027637,0 -0.034139,-0.0228 -0.120301,-0.38367 -0.5137177,-0.38367 H 0.90342596 q -0.18857994,0 -0.18857994,0.19509 v 0.72343 H 1.1245197 q 0.1625689,0 0.219468,-0.0748 0.058525,-0.0748 0.081284,-0.26499 0,-0.026 0.045519,-0.026 0.045519,0 0.045519,0.026 0,0.0813 -0.00975,0.20484 -0.00975,0.11867 -0.00975,0.19345 0,0.0764 0.00975,0.19509 0.00975,0.1268 0.00975,0.20808 0,0.026 -0.045519,0.026 -0.045519,0 -0.045519,-0.026 -0.024385,-0.19833 -0.086162,-0.27799 -0.060151,-0.0797 -0.214591,-0.0797 H 0.71484602 v 0.79984 q 0,0.19183 0.18857994,0.19183 H 1.2578262 q 0.193457,0 0.3836626,-0.12518 0.1902057,-0.1268 0.2796186,-0.31538 0.0065,-0.0146 0.027637,-0.0146 0.02276,0 0.040642,0.013 0.017883,0.0114 0.017883,0.0293 z" />
     </g>
     <g
+       transform="translate(33.866667,4.2333334)"
        id="text918"
        style="font-style:normal;font-weight:normal;font-size:84.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:10.56216621px;word-spacing:0px;fill:#146d94;fill-opacity:1;stroke:none;stroke-width:2.11666656"
        aria-label="Erich Erstu">
