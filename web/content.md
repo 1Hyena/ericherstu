@@ -3,7 +3,7 @@
 |                                                                              |
 | :--------------------------------------------------------------------------: |
 |                                                                              |
-|          ![Logo of Erich Erstu](./gfx/logo.svg "Logo of Erich Erstu")        |
+|         ![Logo of Erich Erstu](./files/logo.svg "Logo of Erich Erstu")       |
 |                                                                              |
 |          _"In which lies the true question, that is the question."_          |
 |                                                                              |
@@ -19,12 +19,12 @@ information about the [living soul][ref-1] known as Erich Erstu.
 | :--------------------------------------------------------------------------: |
 |                                Contact Info:                                 |
 |                                                                              |
-|         mail@![ErichErstu.net](./gfx/domain-name.png "Domain name")          |
+|        mail@![ErichErstu.net](./files/domain-name.png "Domain name")         |
 
 
 ## Biography ###################################################################
 
-| ![Photo of Erich Erstu](./gfx/biography.jpg "Photo of Erich Erstu")          |
+| ![Photo of Erich Erstu](./files/biography.jpg "Photo of Erich Erstu")        |
 | :--------------------------------------------------------------------------- |
 | **Erich Erstu**, born on the 15th of February 1989                           |
 |                                                                              |
@@ -72,7 +72,7 @@ carpenter and a plaintiff, to name a few.
 
 ## Curriculum Vitae ############################################################
 
-|                  ![Image of CV](./gfx/cv.jpg "Image of CV")                  |
+|                 ![Image of CV](./files/cv.jpg "Image of CV")                 |
 | :--------------------------------------------------------------------------: |
 |                  Click [here][ref-4] to open the CV in PDF.                  |
 
@@ -86,15 +86,15 @@ carpenter and a plaintiff, to name a few.
 |       University of Tartu, 2014       |      University of Tartu, 2012       |
 |            [THESIS][ref-7]            |            [THESIS][ref-8]           |
 
-[img-msc]: ./gfx/diploma-msc.jpg "Master's Diploma"
-[img-bsc]: ./gfx/diploma-bsc.jpg "Bachelor's Diploma"
+[img-msc]: ./files/diploma-msc.jpg "Master's Diploma"
+[img-bsc]: ./files/diploma-bsc.jpg "Bachelor's Diploma"
 
 
 ## Professional Certifications #################################################
 
   * [Web Application Security Advanced][ref-3]
 
-    ![Image of Certificate](./gfx/cert-wasa.jpg "Certificate of Completion")
+  ![Image of Certificate](./files/cert-wasa.jpg "Certificate of Completion")
 
 
 # Portfolio ####################################################################
