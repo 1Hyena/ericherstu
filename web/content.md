@@ -26,7 +26,7 @@ information about the [living soul][ref-1] known as Erich Erstu.
 
 | ![Photo of Erich Erstu](./files/biography.jpg "Photo of Erich Erstu")        |
 | :--------------------------------------------------------------------------- |
-| **Erich Erstu**, born on the 15th of February 1989                           |
+| **Erich Erstu** at the age of 33, born on the 15th of February 1989          |
 |                                                                              |
 | Native resident of Estonia                                                   |
 
