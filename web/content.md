@@ -15,27 +15,30 @@
 This website serves as a formal publication of both the professional and social
 information about the [living soul][ref-1] known as Erich Erstu.
 
-|                                                                              |
-| :--------------------------------------------------------------------------: |
-|                                Contact Info:                                 |
-|                                                                              |
-|        mail@![ErichErstu.net](./files/domain-name.png "Domain name")         |
+|              |                         Contact Info                          |
+| -----------: | :-----------------------------------------------------------: |
+|      E-Mail: | mail@![ErichErstu.net](./files/domain-name.png "Domain name") |
+|      Online: |    [LinkedIn][ref-9], [Facebook][ref-10], [GitHub][ref-11]    |
 
 
 ## Biography ###################################################################
 
-| ![Photo of Erich Erstu](./files/biography.jpg "Photo of Erich Erstu")        |
-| :--------------------------------------------------------------------------- |
-| **Erich Erstu** at the age of 33, born on the 15th of February 1989          |
-|                                                                              |
-| Native resident of Estonia                                                   |
+|                     |                                                        |
+| ------------------: | :----------------------------------------------------: |
+|                     |            ![Photo of Erich Erstu][img-bio]            |
+|                     |        Photo of **Erich Erstu**, September 2022        |
+| Date·of·Live·Birth: |           15th of February, 1989 Anno Domini           |
+|          Ethnicity: |                        Estonian                        |
+
+[img-bio]: ./files/biography.jpg "Photo of Erich Erstu"
 
 In his professional life Erich Erstu is a software engineer and a computer game
 developer who often challenges the mundane world of dogmas with his novel
 approaches and unconventional thinking. Although he has spent a fair share of
-his working hours devising [BitCoin][ref-2] and online gambling related projects
-his favourite software engineering challenge is the creation of a horizontally
-scalable game server for a massively multiplayer online role playing game.
+his working hours devising [BitCoin][ref-2] and online gambling related
+projects, his favourite software engineering challenge is the creation of a
+horizontally scalable game server for a massively multiplayer online role
+playing game.
 
 He wrote his first computer program at the age of five in QBasic. At the age of
 12 he developed his first video game using the _GameMaker_ software. He learned
@@ -434,18 +437,21 @@ to share with the world wide web.
   exclusive membership club focused on Bitcoin
 
 
-[ref-0]: https://en.wikipedia.org/wiki/Multi-user_dungeon
-        "Wikipedia article about Multi User Dungeons"
-[ref-1]: https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=KJV
-        "Reference to Genesis 2:7"
-[ref-2]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3440802
-        "BitCoin Whitepaper by Craig Wright"
-[ref-3]: http://www.clarifiedsecurity.com/web-application-security-training/
-[ref-4]: ../cv/cv.pdf
-        "Curriculum Vitae of Erich Erstu in PDF"
-[ref-5]: https://github.com/1Hyena
-        "GitHub account of Erich Erstu"
-[ref-6]: https://github.com/mxgmn/WaveFunctionCollapse
-        "GitHub page of the WaveFunctionCollapse project"
-[ref-7]: https://hdl.handle.net/10062/56022 "Master's Thesis"
-[ref-8]: https://hdl.handle.net/10062/32808 "Bachelor's Thesis"
+[ref-0 ]: https://en.wikipedia.org/wiki/Multi-user_dungeon
+         "Wikipedia article about Multi User Dungeons"
+[ref-1 ]: https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=KJV
+         "Reference to Genesis 2:7"
+[ref-2 ]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3440802
+         "BitCoin Whitepaper by Craig Wright"
+[ref-3 ]: http://www.clarifiedsecurity.com/web-application-security-training/
+[ref-4 ]: ../cv/cv.pdf
+         "Curriculum Vitae of Erich Erstu in PDF"
+[ref-5 ]: https://github.com/1Hyena
+         "GitHub account of Erich Erstu"
+[ref-6 ]: https://github.com/mxgmn/WaveFunctionCollapse
+         "GitHub page of the WaveFunctionCollapse project"
+[ref-7 ]: https://hdl.handle.net/10062/56022 "Master's Thesis"
+[ref-8 ]: https://hdl.handle.net/10062/32808 "Bachelor's Thesis"
+[ref-9 ]: https://www.linkedin.com/in/erich-erstu-72a6a171/ "LinkedIn Profile"
+[ref-10]: https://www.facebook.com/erich.erstu "Facebook Profile"
+[ref-11]: https://github.com/1Hyena "GitHub Profile"
