@@ -121,7 +121,7 @@ to Telnet. It is inspired by [MUDs][ref-0] and it incorporates aspects from
 typical role-playing games. In addition to the Text User Interface, S&DD comes
 with a browser based client written in HTML5 and Javascript. The latter is
 responsible for making this game much more convenient for the vast majority of
-the target audience as SnDC aims to resemble a slot machine.
+the target audience as the client aims to resemble a slot machine.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
@@ -292,6 +292,85 @@ in Estonian.
 While a more extensive list of software authored by Erich is available under his
 [GitHub account][ref-5], some of the more noteworthy titles are also listed in
 the following sections.
+
+
+### Markdown Assembler #########################################################
+
+MarkDown Monolith Assembler is a command line tool designed for building elegant
+browser-based books using the Markdown markup language. When given a markdown
+document as an input, this program produces a monolithic JavaScript-free HTML5
+application as an output. For example, this very website has been generated with
+MarkDown Monolith Assembler.
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | MarkDown Monolith Assembler                               |
+|   Time·of·Focus: | 2023                                                      |
+|      Tech·Stack: | C++, HTML, CSS                                            |
+|          Status: | Completed                                                 |
+|                  | [SOURCE CODE](https://github.com/1Hyena/mdma)             |
+
+
+### Sockets ####################################################################
+
+This is a single-threaded and signal-compatible header-only C++ library for the
+creation and acceptance of TCP connections. The library makes use of the *epoll*
+Linux kernel system call to achieve a scalable I/O event notification mechanism.
+
+The library started out from the [Arion MUD](#Arion-MUD) server in 2012 and has
+been revised and rewritten several times ever since. It was intended to be used
+as a networking module for a MUD but is also used by other software such as
+[TCP Herald](#TCP-Herald) and [TCP Nipple](#TCP-Nipple).
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | Sockets                                                   |
+|   Time·of·Focus: | 2012 — 2023                                               |
+|      Tech·Stack: | C++                                                       |
+|          Status: | Completed                                                 |
+|                  | [SOURCE CODE](https://github.com/1Hyena/sockets)          |
+
+
+### TCP Nipple #################################################################
+
+This Linux program is a proxy client that joins together pairs of **outgoing**
+TCP connections. It connects simultaneously to two hosts (_supply_ and _demand_)
+and exchanges data between them.
+
+With this tool it is trivial to host any TCP server locally rather than on a
+_cloud_ or on a third party commercial server. This may turn useful if a hosting
+provider charges based on CPU usage because then the computation heavy part of
+the service could be executed on concealed and privately owned hardware. Please
+refer to [TCP Herald](#TCP-Herald) to get an idea how to set up such a server.
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | TCP Nipple                                                |
+|   Time·of·Focus: | 2021 — 2023                                               |
+|      Tech·Stack: | C++                                                       |
+|          Status: | Completed                                                 |
+|                  | [SOURCE CODE](https://github.com/1Hyena/tcpnipple)        |
+
+
+### TCP Herald #################################################################
+
+This Linux program is a proxy server that joins together pairs of **incoming**
+TCP connections. It listens simultaneously on two ports (_supply_ and _demand_)
+and connects any new client on the _demand_ port with a client waiting on the
+_supply_ port.
+
+An example use case would be running this program as a public server in order to
+provide access to a private server which cannot accept new connections by itself
+but can connect to the public server when needed. See [TCP Nipple](#TCP-Nipple)
+for a good example of such a private server.
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | TCP Herald                                                |
+|   Time·of·Focus: | 2021 — 2023                                               |
+|      Tech·Stack: | C++                                                       |
+|          Status: | Completed                                                 |
+|                  | [SOURCE CODE](https://github.com/1Hyena/tcpherald)        |
 
 
 ### CryptoGraffiti #############################################################
