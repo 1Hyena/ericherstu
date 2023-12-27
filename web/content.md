@@ -5,7 +5,7 @@
 |                                                                              |
 |         ![Logo of Erich Erstu](./files/logo.svg "Logo of Erich Erstu")       |
 |                                                                              |
-|          _"In which lies the true question, that is the question."_          |
+|          _"In which lies the real question, that is the question."_          |
 |                                                                              |
 |            software engineer, game developer, researcher, investor           |
 
