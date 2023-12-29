@@ -313,14 +313,15 @@ MarkDown Monolith Assembler.
 
 ### Sockets ####################################################################
 
-This is a single-threaded and signal-compatible header-only C++ library for the
-creation and acceptance of TCP connections. The library makes use of the *epoll*
-Linux kernel system call to achieve a scalable I/O event notification mechanism.
+Sockets is a single-threaded and signal-compatible header-only C++ library for
+the creation and acceptance of TCP connections. The library makes use of the
+*epoll* Linux kernel system call to implement a scalable I/O event notification
+mechanism.
 
-The library started out from the [Arion MUD](#Arion-MUD) server in 2012 and has
+This library started out from the [Arion MUD](#Arion-MUD) server in 2012 and has
 been revised and rewritten several times ever since. It was intended to be used
 as a networking module for a MUD but is also used by other software such as
-[TCP Herald](#TCP-Herald) and [TCP Nipple](#TCP-Nipple).
+[TCP Coupler](#TCP-Coupler) and [TCP Nipple](#TCP-Nipple).
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
@@ -333,7 +334,7 @@ as a networking module for a MUD but is also used by other software such as
 
 ### TCP Nipple #################################################################
 
-This Linux program is a proxy client that joins together pairs of **outgoing**
+This Linux program is a network client that joins together pairs of **outgoing**
 TCP connections. It connects simultaneously to two hosts (_supply_ and _demand_)
 and exchanges data between them.
 
@@ -341,7 +342,8 @@ With this tool it is trivial to host any TCP server locally rather than on a
 _cloud_ or on a third party commercial server. This may turn useful if a hosting
 provider charges based on CPU usage because then the computation heavy part of
 the service could be executed on concealed and privately owned hardware. Please
-refer to [TCP Herald](#TCP-Herald) to get an idea how to set up such a server.
+refer to [TCP Coupler](#TCP-Coupler) to get an idea of how to set up such a
+server.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
@@ -352,9 +354,9 @@ refer to [TCP Herald](#TCP-Herald) to get an idea how to set up such a server.
 |                  | [SOURCE CODE](https://github.com/1Hyena/tcpnipple)        |
 
 
-### TCP Herald #################################################################
+### TCP Coupler ################################################################
 
-This Linux program is a proxy server that joins together pairs of **incoming**
+This Linux program is a network server that joins together pairs of **incoming**
 TCP connections. It listens simultaneously on two ports (_supply_ and _demand_)
 and connects any new client on the _demand_ port with a client waiting on the
 _supply_ port.
@@ -366,11 +368,11 @@ for a good example of such a private server.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
-|           Title: | TCP Herald                                                |
+|           Title: | TCP Coupler                                               |
 |   Time·of·Focus: | 2021 — 2023                                               |
 |      Tech·Stack: | C++                                                       |
 |          Status: | Completed                                                 |
-|                  | [SOURCE CODE](https://github.com/1Hyena/tcpherald)        |
+|                  | [SOURCE CODE](https://github.com/1Hyena/tcpcoupler)       |
 
 
 ### CryptoGraffiti #############################################################
