@@ -132,8 +132,8 @@ the target audience as the client aims to resemble a slot machine.
 |      Tech·Stack: | C++, JavaScript, PixiJS                                   |
 |          Status: | Discontinued                                              |
 
-[img-sndd]: https://img.youtube.com/vi/Gq8RNRD52PU/sd1.jpg
-[vid-sndd]: https://www.youtube.com/watch?v=Gq8RNRD52PU
+[img-sndd]: https://img.youtube.com/vi/vvHjwy3Z0i0/sd1.jpg
+[vid-sndd]: https://www.youtube.com/watch?v=vvHjwy3Z0i0
             "Screen recording showing off Slice&Dice Dungeon"
 
 
@@ -155,8 +155,8 @@ every obstacle and decision might sway his will to push onward.
 |          Status: | Completed                                                 |
 |                  | [DOWNLOAD](https://ericherstu.net/sohni/sohni.zip)        |
 
-[img-sohni]: https://img.youtube.com/vi/anG6V4wbiBE/sddefault.jpg
-[vid-sohni]: https://www.youtube.com/watch?v=anG6V4wbiBE
+[img-sohni]: https://img.youtube.com/vi/eqws-L20gwE/sd3.jpg
+[vid-sohni]: https://www.youtube.com/watch?v=eqws-L20gwE
              "Screen recording from the Sohni game"
 
 
@@ -176,8 +176,8 @@ player consists of 10 levels. Two player mode is available.
 |          Status: | Completed                                                 |
 |                  | [DOWNLOAD](https://ericherstu.net/files/catfight.zip)     |
 
-[img-catfight]: https://img.youtube.com/vi/Abel4RUInlI/sddefault.jpg
-[vid-catfight]: https://www.youtube.com/watch?v=Abel4RUInlI
+[img-catfight]: https://img.youtube.com/vi/wTVnKNLISds/sddefault.jpg
+[vid-catfight]: https://www.youtube.com/watch?v=wTVnKNLISds
                 "Screen recording from the CatFight game"
 
 
@@ -198,8 +198,8 @@ Ivo Visak and background research was conducted by Allan Trukits.
 |          Status: | Completed                                                 |
 |                  | [DOWNLOAD](https://ericherstu.net/files/balticsea.zip)    |
 
-[img-balticsea]: https://img.youtube.com/vi/QLLg8uBB-8s/sddefault.jpg
-[vid-balticsea]: https://www.youtube.com/watch?v=QLLg8uBB-8s
+[img-balticsea]: https://img.youtube.com/vi/J9s1lmNgtpw/sddefault.jpg
+[vid-balticsea]: https://www.youtube.com/watch?v=J9s1lmNgtpw
                  "Screen recording from the Baltic Sea game"
 
 
@@ -218,8 +218,8 @@ himself the C programming language.
 |      Tech·Stack: | C                                                         |
 |          Status: | Discontinued                                              |
 
-[img-arion]: https://img.youtube.com/vi/pn2bjq0kcHw/sd3.jpg
-[vid-arion]: https://www.youtube.com/watch?v=pn2bjq0kcHw
+[img-arion]: https://img.youtube.com/vi/dJz3TqhI3Zw/sd3.jpg
+[vid-arion]: https://www.youtube.com/watch?v=dJz3TqhI3Zw
              "Screen recording from the Arion MUD"
 
 
@@ -239,8 +239,8 @@ through a fictional world that seems to be progressively turning into excrement.
 |      Tech·Stack: | GameMaker 5                                               |
 |          Status: | Discontinued                                              |
 
-[img-redegg]: https://img.youtube.com/vi/6tTEmrBZG3I/sddefault.jpg
-[vid-redegg]: https://www.youtube.com/watch?v=6tTEmrBZG3I
+[img-redegg]: https://img.youtube.com/vi/o0SgOOF2ow8/sd1.jpg
+[vid-redegg]: https://www.youtube.com/watch?v=o0SgOOF2ow8
               "Screen recording from the RedEgg Adventures game"
 
 
@@ -282,8 +282,8 @@ in Estonian.
 |          Status: | Completed                                                 |
 |                  | [DOWNLOAD](https://ericherstu.net/files/marko.zip)        |
 
-[img-marko]: https://img.youtube.com/vi/WEGu59IP_3o/sddefault.jpg
-[vid-marko]: https://www.youtube.com/watch?v=WEGu59IP_3o
+[img-marko]: https://img.youtube.com/vi/z24NQPOiUe0/sddefault.jpg
+[vid-marko]: https://www.youtube.com/watch?v=z24NQPOiUe0
              "Screen recording from the Marko game"
 
 
@@ -429,8 +429,8 @@ online role-playing game.
 |      Tech·Stack: | C++                                                       |
 |          Status: | Completed                                                 |
 
-[img-wfc]: https://img.youtube.com/vi/i69gDz3bbUo/sddefault.jpg
-[vid-wfc]: https://www.youtube.com/watch?v=i69gDz3bbUo
+[img-wfc]: https://img.youtube.com/vi/ue2adHLUU5k/sddefault.jpg
+[vid-wfc]: https://www.youtube.com/watch?v=ue2adHLUU5k
            "Screen recording from the Wave Function Collapse demo"
 
 
@@ -454,8 +454,8 @@ Erich a Master's Degree in Software Engineering.
 |       Status:| Completed                                                     |
 |              | [SOURCE CODE](https://github.com/1Hyena/atomorph)             |
 
-[img-atomorph]: https://img.youtube.com/vi/8E6cuTbUIUo/sddefault.jpg
-[vid-atomorph]: https://www.youtube.com/watch?v=8E6cuTbUIUo
+[img-atomorph]: https://img.youtube.com/vi/TqFiMyXwFIU/sddefault.jpg
+[vid-atomorph]: https://www.youtube.com/watch?v=TqFiMyXwFIU
                 "Screen recording of the AtoMorph library in action"
 
 
@@ -473,16 +473,12 @@ in Informatics.
 
 |                  |                                                           |
 | ---------------: | :-------------------------------------------------------: |
-|                  | [![Screenshot][img-rwg]][vid-rwg]                         |
+|                  | ![Screenshot](./files/rwg.jpg "Randomly Generated Map")   |
 |           Title: | Random World Generator                                    |
 |   Time·of·Focus: | 2012                                                      |
 |      Tech·Stack: | C++                                                       |
 |          Status: | Completed                                                 |
 |                  | [SOURCE CODE](https://github.com/1Hyena/rwg)              |
-
-[img-rwg]: https://img.youtube.com/vi/JveA-mA3SdE/sddefault.jpg
-[vid-rwg]: https://www.youtube.com/watch?v=JveA-mA3SdE
-           "Screen recording showing the Random World Generator in action"
 
 
 # Links ########################################################################
