@@ -512,6 +512,8 @@ to share with the world wide web.
 
 * [MetaNet.icu](https://metanet.icu/) —
   exclusive membership club focused on Bitcoin
+* [Stonia.net.ee](https://stonia.net.ee/) —
+  Stonia MUD fanpage made by Erich Erstu
 
 
 [ref-0 ]: https://en.wikipedia.org/wiki/Multi-user_dungeon
