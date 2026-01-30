@@ -114,6 +114,30 @@ the full list is not fit for public scrutiny some of the more notable titles are
 listed below.
 
 
+### Arion MUD ##################################################################
+
+_Arion_ is a text-based role-playing game and a multi user dungeon (MUD) based
+on the Rivers of MUD engine. Erich modded and maintained it for fun and to teach
+himself the C programming language from 2005 to 2015.
+
+The project was discontinued until late 2024 when Erich started working on it
+again. The new start was inspired by the ideas of making the game available via
+the browser based game client named [Aronia](https://aronia.net.ee/).
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|                  | [![Screenshot][img-arion]][vid-arion]                     |
+|           Title: | Arion MUD                                                 |
+|   Time·of·Focus: | 2005 — 2015, 2024 —                                       |
+| Target·Platform: | Telnet                                                    |
+|      Tech·Stack: | C                                                         |
+|          Status: | In progress                                               |
+
+[img-arion]: https://img.youtube.com/vi/dJz3TqhI3Zw/sd3.jpg
+[vid-arion]: https://www.youtube.com/watch?v=dJz3TqhI3Zw
+             "Screen recording from the Arion MUD"
+
+
 ### Slice&Dice Dungeon #########################################################
 
 _Slice&Dice Dungeon_ (SnDD) is a multi user slot machine, backwards compatible
@@ -203,26 +227,6 @@ Ivo Visak and background research was conducted by Allan Trukits.
                  "Screen recording from the Baltic Sea game"
 
 
-### Arion MUD ##################################################################
-
-_Arion_ is a text-based role-playing game and a multi user dungeon (MUD) based
-on the Rivers of MUD engine. Erich modded and maintained it for fun and to teach
-himself the C programming language.
-
-|                  |                                                           |
-| ---------------: | :-------------------------------------------------------: |
-|                  | [![Screenshot][img-arion]][vid-arion]                     |
-|           Title: | Arion MUD                                                 |
-|   Time·of·Focus: | 2005 — 2015                                               |
-| Target·Platform: | Telnet                                                    |
-|      Tech·Stack: | C                                                         |
-|          Status: | Discontinued                                              |
-
-[img-arion]: https://img.youtube.com/vi/dJz3TqhI3Zw/sd3.jpg
-[vid-arion]: https://www.youtube.com/watch?v=dJz3TqhI3Zw
-             "Screen recording from the Arion MUD"
-
-
 ### RedEgg Adventures ##########################################################
 
 This game is an arbitrary side-scrolling role-playing game where the player
@@ -292,6 +296,39 @@ in Estonian.
 While a more extensive list of software authored by Erich is available under his
 [GitHub account][ref-5], some of the more noteworthy titles are also listed in
 the following sections.
+
+
+### AnsMap Library #############################################################
+
+AnsMap (AMP) is a data structure that stores the instructions for printing ANSI
+art graphics to the terminal. The AnsMap Library (LibAMP) is accompanied by a
+set of methods for ansmap construction and for the conversion of ansmap images
+to ANSI escape code sequences. In LibAMP, the letters AMP stand for "ANSI Map"
+(as in ANSI art), and the Lib prefix indicates that it is a library for the C
+programming language.
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | AnsMap Library                                            |
+|   Time·of·Focus: | 2026                                                      |
+|      Tech·Stack: | C                                                         |
+|          Status: | Completed                                                 |
+|                  | [SOURCE CODE](https://github.com/1Hyena/libamp)           |
+
+
+### NestedText for C ###########################################################
+
+NestedText is a plaintext file format for holding structured data. NT4C is a
+NestedText parser implementation written in accordance with the C23 standard of
+the C programming language.
+
+|                  |                                                           |
+| ---------------: | :-------------------------------------------------------: |
+|           Title: | NextedText for C                                          |
+|   Time·of·Focus: | 2025                                                      |
+|      Tech·Stack: | C                                                         |
+|          Status: | Completed                                                 |
+|                  | [SOURCE CODE](https://github.com/1Hyena/nt4c)             |
 
 
 ### Markdown Assembler #########################################################
@@ -504,6 +541,8 @@ to share with the world wide web.
 
 ## News ########################################################################
 
+* [CharlieWard.com](https://charlieward.com/) —
+  trustworthy source of international news
 * [CoinGeek.com](https://coingeek.com/) —
   trustworthy source of Bitcoin news
 
